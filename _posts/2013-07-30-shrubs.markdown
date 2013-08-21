@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Shrubs"
+subtitle:  "...and shrubbing (but not shrubbery)"
+date:   2013-07-30 12:00:01
+categories: food-and-drink
+
+preview: "Shrubs - a thin syrup with a flavor profile somewhere between fruity pebbles and salad dressing.
+
+They make a great addition to cocktails and to sparkling water (for a more complex italian soda). About three months ago, it was all the rage in cocktails, before it was displaced by Mezcal, then Averna, then crushed-ice cocktails, then cocktails named &#8220;swizzle&#8221;, and finally it&#8217;s regained the crown as a subject of interest in bartenders and cocktailinista&#8217;s for at least the next 10-14 days. While it&#8217;s still popular, I&#8217;ll take the opportunity to share what I know, and drop some links for those who might be interested."
+ 
+---
+
+If shrubs aren&#8217;t bushes, what are they? Shrubs, in the context of this article, are a combination of fruit sugars, sugar sugars and vinegar. The result is a thin syrup with a flavor profile somewhere in the middle between fruity pebbles and salad dressing. It&#8217;s a great addition to cocktails and to sparkling water (for a more complex italian soda). About three months ago, it was all the rage in cocktails, before it was displaced by Mezcal, then Averna, then crushed-ice cocktails, then cocktails named &#8220;swizzle&#8221;, and finally it&#8217;s regained the crown as a subject of interest in bartenders and cocktailinista&#8217;s for at least the next 10-14 days. While it&#8217;s still popular, I&#8217;ll take the opportunity to share what I know, and drop some links for those who might be interested.
+
+#### Straight Shrubbin&#8217;
+
+Your archetypical recipe is basically going to be something like:
+
+*   1 part chopped &#8220;fruit&#8221; (a lot of veggies and peppers will work great for this too. I&#8217;ve done beets, tomatoes and celery just to give a few examples.)
+*   1 part &#8220;sugar&#8221; (honey, raw sugars and brown sugar all work fine)
+*   1/2 - 1 part &#8220;vinegar&#8221; (actually vinegar)
+
+Combine the fruit and sugar into an air-tight container, and stir or shake it a few times a day for 1-3 days. The sugar will draw the juice out of the fruit and into a solution, leaving desicated, flavorless husks. When all the sugar has gone into solution, strain the mixture and combine it with the vinegar. You&#8217;re pretty much done at that point.
+
+The shrub will continue to evolve over the next few weeks as the vinegar converts some of the extra sugars into more vinegar. Everyone describes this process as &#8220;mellowing&#8221;, and that&#8217;s fine by me to.
+
+Let me put this into practice in a way that makes you say &#8220;mmmmmm&#8230;&#8221;
+
+*   1 cup chopped strawberries
+*   1 cup sugar
+*   1 cup champagne vinegar
+
+And I might put .5 oz of this stuff in a gin cocktail or in a Pimm&#8217;s cup with soda water, as a substitute for the lemonade.
+
+<aside class='pull pull-right'>
+
+##### Bonus round: mother of vinegar...FIGHT
+
+Rumor has it that shrubbing will occasionally score you some "mother of vinegar"<sup>[1]</sup>, which is a somewhat strange, borderline Wiccan, way to say "vinegar starter" (I mean - we don't we call seeds "mother of cucumber" or yeast "bread daddies").
+
+Much like bacon grease - just because you _can_ collect it, it doesn't mean you have to.  Mother of Vinegar won't affect the shrub or vinegar and should drop out of solution into a solid layer once it has done its thing.  If you are interested in making your own vinegar, [good for you!](http://lmgtfy.com/?q=how+to+make+vinegar+with+mother+of+vinegar)
+
+</aside>
+
+#### Spicy Shrubbin&#8217;
+
+Shrubs are actually an incredibly effective way to add spice and heat to a cocktail.
+
+Typically, you&#8217;d use hot sauce, which is really only effective in &#8220;kitchen sink&#8221; cocktails, like bloody mary&#8217;s. Another way would be by infusing the peppers directly into the alcohol, which works better for clear alcohols and is also really great way to ruin an entire bottle of decent alcohol, if you&#8217;re experimenting. Wouldn&#8217;t you rather ruin a cup of peppers and 15 minutes of your life. I would, and this is true in many, many contexts - not just shrubs.
+
+So, we&#8217;ll evolve our previous recipe:
+
+*   1/4 cup chopped habanero peppers
+*   3/4 cup chopped straweberries
+*   1 cup brown sugar
+*   2/3 cup Unfiltered Apple Cider Vinegar
+
+This has more bite, so it may be used more sparingly and with a slightly more robust alcohol - with mezcal in an old fashioned.
+
+<div class='carousel slide' id='carousel-example-generic'>
+  <!-- Indicators -->
+  <ol class='carousel-indicators'>
+    <li class='active' data-target='#carousel-example-generic' data-slide-to='0' />
+    <li data-target='#carousel-example-generic' data-slide-to='1' />
+    <li data-target='#carousel-example-generic' data-slide-to='2' />
+  </ol>
+  <!-- Wrapper for slides -->
+  <div class='carousel-inner'>
+    <div class='item active'>
+	  <img src='/img/shrubs/prep.jpg' />
+      <div class='carousel-caption'>
+	  	The fruit
+      </div>
+    </div>
+    <div class='item'>
+	  <img src='/img/shrubs/plus-zero.jpg' />
+      <div class='carousel-caption'>
+	  	The choppped fruit, combined with sugar and coffee and shaken.
+      </div>
+    </div>
+    <div class='item'>
+	  <img src='/img/shrubs/plus-twelve.jpg' />
+      <div class='carousel-caption'>
+	  	At twelve hours, a good deal of juice has already been drawn into solution and mixed with the coffee
+      </div>
+    </div>
+  </div>
+  <!-- Controls -->
+  <a class='left carousel-control' data-slide='prev' href='#carousel-example-generic'>
+    <span class='icon-prev' />
+  </a>
+  <a class='right carousel-control' data-slide='next' href='#carousel-example-generic'>
+    <span class='icon-next' />
+  </a>
+</div>
+
+#### Straight Insanity
+
+If you&#8217;re like me, you can only do something so many times before it gets boring. In order to keep going, you&#8217;ve got to occassionally try something that - &#8220;no way this works, but if it does&#8230;(it still might suck)&#8221; So, let&#8217;s add coffee because, why not?
+
+*   1/4 cup chopped habanero peppers
+*   1 cup chopped straweberries
+*   2 oz finely ground coffee
+*   1 cup brown sugar
+*   2/3 cup Unfiltered Apple Cider Vinegar
+
+We&#8217;re going to make a cold brew and a shrub at the same time. _If this works_, I&#8217;m going to try and mix it with rye, bitters and an orange slice.
+
+#### Places to score some shrub in Austin
+
+Really, any place that has a drink called a &#8220;swizzle&#8221; on their cocktail menu is probably going to be sporting some sort of shrub amongst their mixers and bitters, but here are a few I&#8217;ve come across.
+
+*   [Contigo](http://contigoaustin.com) - the &#8220;Vinegaroon&#8221; features a pineapple-sage shrub with tequila, which is about perfect. I had them serve me up one with Mezcal - and that worked too.
+*   [Bar Congress](http://congressaustin.com/bar-congress/) - usually has a seasonal shrub on the menu.
+*   [drink.well.](http://www.drinkwellaustin.com) - one the bartenders had made a cayenne shrub which he mixed with orange juice and froze. That was then used as an ice cube for an mezcal old-fashioned that yours truly may have drank - the drink was overpowering and wonderful and it transformed as the ice melted. It was three drinks in one drink - each imperfect in its own amazing way. I don&#8217;t think this is a normal thing they do, but maybe if someone else brings it up - they&#8217;ll start making more shrub-cubes - or &#8220;solid shrubs&#8221;, as they were once known.
+
+As always, if you see a shrub on the drink menu, dont&#8217;t be afraid to ask your bartender to get creative with it. Give him or her a few adjectives and see what they come up with.
+
+#### Learning more shrub techniques
+
+*   [Austin Cocktail King, Bill Norris, shares some history and shrubbing techniques](http://badassdigest.com/2013/04/06/your-guide-to-drinking-this-weekend-shrub-cocktails/). This article focuses a lot on taste profiles and has some simple drink suggestions. I&#8217;d largely forget my recipes and read this.
+*   [Bring me a shrub](http://bringmeashrub.blogspot.com) - this now defunct blog has several dozen recipes. Read for ideas, and for the side narrative of the author, Kern the Shrubber, slowly going insane over the course of two years, attempting to keep his sanity intact by writing about shrubs. In some case, the shrubs are euphamisms, so any odd ingredient choices should be read as metaphorical.
+*   [Garden news talks about &#8220;drinking vinegars&#8221;](http://us4.campaign-archive2.com/?u=0cdf199afdadbc1c8ec932f74&amp;id=ad8729dcb1&amp;e=[UNIQID]) - this stuff is really interesting, but everytime I&#8217;m on the garden news website, I start feeling guilty that I don&#8217;t water my apartment plants as often as I should. Just be wary - the site has a suffocating &#8220;I love and water my plants all the time&#8221; air about it.
+
+<p class="addendum">[1] Thanks to Sam Higgins and his cloudy shrub</p>

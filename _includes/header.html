@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1">	
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:url" content="{{ page.url }}" />
+	<meta property="og:description" content="Finds, insights, and ideas about user experience, design, food, drink, and anything else, under the hopeful premise that they are somehow related." />
+	<meta property="og:image" content="/img/site-icon.jpg" />
+
+	<link rel="image_src" href="/img/site-icon.jpg" />
+	<link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+
+	<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css" />
+	<link rel="stylesheet" href="/css/bootstrap-lightbox.min.css" type="text/css" />
+	<link rel="stylesheet" href="/css/ll.css" type="text/css" />
+
+	<script src="/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/bootstrap-lightbox.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/ll.js" type="text/javascript" charset="utf-8"></script>
+
+	<script type="text/javascript" src="//use.typekit.net/cqh8wbo.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body class="{{ page.layout }} {{ page.class }}" data-spy="scroll">
+<div id="container" class="clearfix">
+
+<header>
+	<div class="header">
+		<h1><a href='/'><img src='/img/logo-white.png' alt="Lloyds Arm" /></a></h1>
+		<nav>
+			<a href='/categories/features'>Features</a>
+			<div class="dropdown">
+			  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Topics &nbsp;<span class="icon-caret-down"> </span></a>
+			  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+				  <li><a href='/categories/ux'>UX</a></li>
+				  <li><a href='/categories/food-and-drink'>Food & Drink</a></li>
+				  <li><a href='/categories/fashion'>Shoes & Fashion</a></li>
+			  </ul>
+			</div>
+			<a href='/about'>About</a>
+			<a href='/contact'>Contact</a>
+		</nav>
+
+		<div class="social">
+			<a href="http://twitter.com/llthomps/"> <span class="icon-twitter"> </span></a>
+			<a href="http://instagram.com/llthompson/"> <span class="icon-instagram"> </span></a>
+			<a href="mailto:ll@lloydsarm.com"> <span class="icon-envelope"> </span></a>
+		</div>
+	</div>
+</header>
+

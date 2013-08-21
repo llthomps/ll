@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Your app makes me fat"
+date:   2013-08-01 12:00:00
+categories: ux
+
+externalUrl: http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat
+---
+![Uncanny Valley Graph](/img/assets/FixedMemorization.jpg)
+
+This is a completely fascinating article that demonstrates the strong link between cognitive load and willpower.  This same theory also applies to creativity - see this [Ted Talk by Don Norman](http://www.ted.com/talks/don_norman_on_design_and_emotion.html)
+
+As an additional note, this article comes from a new blog dedicated to UX and pictures of horses.
+
+[Your app makes me fat (Serious Pony)](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat)

@@ -1,0 +1,9 @@
+name: LL
+markdown: redcarpet
+pygments: true
+
+categoryNames:
+ ux: "UX"
+ fashion: "Shoes & Fashion"
+ food-and-drink: "Food & Drink"
+ features: "Features"

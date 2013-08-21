@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Haptics - measuring touch"
+date:   2013-08-20 12:00:00
+categories: ux
+
+externalUrl: http://ed.ted.com/lessons/haptography-digitizing-our-sense-of-touch-katherine-kuchenbecker#watch
+---
+
+{% youtube 6wJ9Aakddng %}
+
+One of the more valid points from trendy wave of anti-skeumorphism that arose up last year was the use of false textures to simulate real-life objects in software. The results, it was argued, confused users as to the true potential of a piece of software, and was really only useful for initial adoption.
+
+But what if the texture could be simulated?  How would we use texture to design the way touch-based devices feel?
+
+This TED talk covers a technology for recording and quantifying the way we move and the way things feel when we hold and touch them.  Although the video mostly focuses on simulating touch environments in education and training, the companion article raises some other ideas:
+
+> Haptography has many uses. It could be used for online shopping by letting you ‘feel’ the material of an item of clothing from your computer...or as a way of allowing children to virtually touch precious museum exhibits.
+
+Where's my haptic iPad, already?!
+
+[Haptography: Digitizing our sense of touch - Katherine Kuchenbecker](http://ed.ted.com/lessons/haptography-digitizing-our-sense-of-touch-katherine-kuchenbecker#watch) via [Boing Boing](http://boingboing.net/2013/08/20/haptography-recording-the-fee.html) and [Humans Invent](http://www.humansinvent.com/#!/13287/haptography-a-digital-future-with-feeling/)

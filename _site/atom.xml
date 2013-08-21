@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title></title>
+ <link href="/" rel="self"/>
+ <link href=""/>
+ <updated>2013-08-21T17:12:00-05:00</updated>
+ <id></id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Haptics - measuring touch</title>
+   <link href="/ux/2013/08/20/haptics.html"/>
+   <updated>2013-08-20T12:00:00-05:00</updated>
+   <id>/ux/2013/08/20/haptics</id>
+   <content type="html">&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;One of the more valid points from trendy wave of anti-skeumorphism that arose up last year was the use of false textures to simulate real-life objects in software. The results, it was argued, confused users as to the true potential of a piece of software, and was really only useful for initial adoption.&lt;/p&gt;
+
+&lt;p&gt;But what if the texture could be simulated?  How would we use texture to design the way touch-based devices feel?&lt;/p&gt;
+
+&lt;p&gt;This TED talk covers a technology for recording and quantifying the way we move and the way things feel when we hold and touch them.  Although the video mostly focuses on simulating touch environments in education and training, the companion article raises some other ideas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Haptography has many uses. It could be used for online shopping by letting you ‘feel’ the material of an item of clothing from your computer...or as a way of allowing children to virtually touch precious museum exhibits.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Where&amp;#39;s my haptic iPad, already?!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ed.ted.com/lessons/haptography-digitizing-our-sense-of-touch-katherine-kuchenbecker#watch&quot;&gt;Haptography: Digitizing our sense of touch - Katherine Kuchenbecker&lt;/a&gt; via &lt;a href=&quot;http://boingboing.net/2013/08/20/haptography-recording-the-fee.html&quot;&gt;Boing Boing&lt;/a&gt; and &lt;a href=&quot;http://www.humansinvent.com/#!/13287/haptography-a-digital-future-with-feeling/&quot;&gt;Humans Invent&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sports & Instant Replay: The Survey</title>
+   <link href="/ux/2013/08/16/sports-survey.html"/>
+   <updated>2013-08-16T12:00:01-05:00</updated>
+   <id>/ux/2013/08/16/sports-survey</id>
+   <content type="html">&lt;p&gt;Hey folks, I&amp;#39;m doing research for an article on sports and the use of instant replay.  If you&amp;#39;ve got two minutes to spare, do me a favor and take this survey I&amp;#39;ve prepared to answer some questions I have about the issue.  Thanks!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bentley.qualtrics.com/SE/?SID=SV_3Cc7S5XTe4uFl2Z&quot;&gt;Survey Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More Shrubs</title>
+   <link href="/food-and-drink/2013/08/16/more-shrubs.html"/>
+   <updated>2013-08-16T12:00:00-05:00</updated>
+   <id>/food-and-drink/2013/08/16/more-shrubs</id>
+   <content type="html">&lt;p&gt;I&amp;#39;ve been playing a bit with shrubs since the &lt;a href=&quot;/food-and-drink/2013/07/30/shrubs.html&quot;&gt;last post&lt;/a&gt;, and wanted to share one new recipe and one update to an earlier recipe we&amp;#39;d highlighted.&lt;/p&gt;
+
+&lt;h3&gt;Hatch Chile Shrub&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 cup, chopped hatch chile peppers (hot) or poblano peppers&lt;/li&gt;
+&lt;li&gt;1 cup, white sugar&lt;/li&gt;
+&lt;li&gt;&amp;frac34;, cup of champagne vinegar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chop the chile peppers, and cram them into a measuring cup.  Combine in a container with the sugar, agitate, and let sit for 2-3 days, until all the sugar has gone into solution.  Agitate 1-2 times / day.  Strain the liquid into a bowl or large measuring cup and combine with the vinegar.  Store and enjoy!&lt;/p&gt;
+
+&lt;p&gt;Unlike most fruits, chiles will have oils, so be sure to agitate the shrub before using to emulsify the oils into the rest of the shrub.&lt;/p&gt;
+
+&lt;h5&gt;Margarita&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;frac12; oz, hatch chile shrub&lt;/li&gt;
+&lt;li&gt;2 oz, blanco tequila (el jimador)&lt;/li&gt;
+&lt;li&gt;3 dashes, orange bitters&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stir and serve over ice.&lt;/p&gt;
+
+&lt;h3&gt;Strawberry Habanero Coffee Shrub&lt;/h3&gt;
+
+&lt;p&gt;This &amp;quot;really bad idea&amp;quot; from the last post turned out to be an amazing idea.  The flavors in this shrub are off the charts - think chocolate and roasted strawberries.  Here&amp;#39;s the recipe we used:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 cup, chopped strawberries&lt;/li&gt;
+&lt;li&gt;&amp;frac14; cup, chopped habanero peppers&lt;/li&gt;
+&lt;li&gt;1 cup, brown sugar&lt;/li&gt;
+&lt;li&gt;2 oz, finely ground coffee&lt;/li&gt;
+&lt;li&gt;&amp;frac23; cup, unfiltered Apple Cider Vinegar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Combine the chopped strawberries, peppers, sugar and coffee in a container and seriously agitate / mix.  Let the mixture sit for 2-3 days, agitating 1-2 times / day, until all the sugar has gone into solution.  You&amp;#39;ll need to strain this through a very fine sieve to get all the coffee grounds out (I&amp;#39;m still experimenting with the best way to do this).  You may need to strain multiple times.  Let this shrub rest at least 1 week to let the vinegar mellow out.  This shrub can be tweaked to add more habanero peppers, as the amount used will give a roasty, spciy flavor but not much bite.  The amount of coffee used will seem like a lot, but keep the ratio intact!  You&amp;#39;re essentially making a cold brew and using not enough coffee will make the mixture bitter, as opposed to sweet and chocolatey.&lt;/p&gt;
+
+&lt;h5&gt;&amp;quot;Smart Patrol&amp;quot;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;frac12; oz, strawberry habanero coffee shrub&lt;/li&gt;
+&lt;li&gt;2 oz, rye or bourbon&lt;/li&gt;
+&lt;li&gt;2-3 dashes, of Angostura bitters&lt;/li&gt;
+&lt;li&gt;1 Luxardo cherry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Shake the shrub and bourbon and serve up (in a stemmed glass) with the cherry and bitters.  Strain out the ice chunks, please, as you pour into the glass.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Occult Design Methods</title>
+   <link href="/features/ux/2013/08/13/extreme-methods-tarot.html"/>
+   <updated>2013-08-13T12:00:00-05:00</updated>
+   <id>/features/ux/2013/08/13/extreme-methods-tarot</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Telepathy.  ESP.  Divination. The Tarot.  In this article we&amp;#39;ll explore the strange history of utilizing the Tarot readings in project ideation and strategy in an article where we explore design methods of the occult, abandoned because of their inherit power.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Thanks for getting past the lead.  It&amp;#39;s completely false.  We&amp;#39;ll be exploring how to utilize a classic divination technique that&amp;#39;s highly dependent on subjective input from the &amp;quot;querent&amp;quot; and facilitator to help individuals on a project engage in divergent and creative thinking.  And let&amp;#39;s be clear about this - I don&amp;#39;t think the Tarot Cards are an accurate way to predict anything, in real life.  &lt;/p&gt;
+
+&lt;p&gt;What I do think is that they&amp;#39;re a great way to force people to make connections that aren&amp;#39;t immediately obvious.  When we apply this in real-life, we rightly call it things like &amp;quot;paranoia&amp;quot;, but when we use it in a controlled environment it can be a very useful tool for helping people be creative, get past stonewalls in their thinking, and expand their understanding of a situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;section1&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;The rules&lt;/h3&gt;
+
+&lt;p&gt;The reading has three phases - the reading itself, a discussion of key themes in the reading, and the generation of actions or follow-up questions.  As always, address your goals up front.  It&amp;#39;s important to make clear that you&amp;#39;re relying on their interpretation, and that you don&amp;#39;t expect the cards to influence or predict anything.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The reading itself only has one rule - that &lt;strong&gt;all cards played must have a coherent interprentation&lt;/strong&gt;.  Discuss the meaining of the card placement up-front, and then read the meaning for each card aloud and allow the team to interpret that into how it applies to the project.  The Tarot generally has two subjects it addresses - the situation or question and the querent / subject of the reading.  For the the Tarot method, this can be abstracted as the facilitator sees fit.&lt;/li&gt;
+&lt;li&gt;As the team works throught the questions, the facilitator should &lt;strong&gt;take note of surprises and themes that pop up frequently&lt;/strong&gt;.  Try and grab 3+ of these themes.  When the reading is over, open up each of these themes for a general discussion.  At this point, you&amp;#39;ll want to keep discussion broad.  The discussion should start to narrow and as it does and begins to move towards tactics to address the issue, it&amp;#39;s probably time to capture those actions move on to the next topic.&lt;/li&gt;
+&lt;li&gt;The last part is the distillation. Each discussion item should ideally &lt;strong&gt;produce a list of follow-ups and actions&lt;/strong&gt;.  Review those with the team and try and identify the DRI (directly responsible individual).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my experience, participants will often want to conduct multiple readings, as they find the experience fun.  I&amp;#39;d recommend against multiple readings in a single sitting, as the larger group seems to lose interest part-way through a second reading, and will start calling BS on cards that seem to be a non-sequitor.&lt;/p&gt;
+
+&lt;p&gt;To be useful, this method really does require both a querent and a facilitator.  Single-person readings can result in the querent fishing for a single answer, and ignoring the &amp;quot;why is this relevant&amp;quot; question that comes with each card.&lt;/p&gt;
+
+&lt;h4&gt;When it&amp;#39;s useful&lt;/h4&gt;
+
+&lt;p&gt;I&amp;#39;ve found this method useful both early and late in a project.  If used early, expect to address strategic issues and key players.  Late in the project, this  method can help think through intractible issues or delays.  Finally, during launch, this method can be used as a fun way to help recast some of the trials over the design or development period and help your team project their expectations for the product.  &lt;/p&gt;
+
+&lt;h5&gt;This technique can be utilized internally to read project teams...&lt;/h5&gt;
+
+&lt;p&gt;I&amp;#39;ve applied this method with programmers, who after focusing through complicated, logical issues all day, can justifiably have some trouble tapping into their creativity with the cognitive load they&amp;#39;ve endured coding.  The reality is that almost all of the coders I know are incredibly creative, and this technique can help them back off and start to embrace the whole picture.&lt;/p&gt;
+
+&lt;h5&gt;...or externally to query on behalf of customers&lt;/h5&gt;
+
+&lt;p&gt;One technique we&amp;#39;ve utilized is to do a reading on the behalf of a fictional user, or a persona.  Personas usually have motivations, objectives, and key behaviors.  &lt;/p&gt;
+
+&lt;h4&gt;What to expect&lt;/h4&gt;
+
+&lt;p&gt;This method will produce a mix of macro and micro items to address.  To some extent, it is dependent on the cards - which will be interpreted as people or forces.  As always, people should be addressed according to their needs, and forces addressed according to their momentum.&lt;/p&gt;
+
+&lt;h5&gt;Be prepared for the &lt;em&gt;unexpected&lt;/em&gt;&lt;/h5&gt;
+
+&lt;p&gt;Expect at least one non-sequitor surprise and one &amp;quot;I knew it!&amp;quot; card to appear.  Be prepared to twist the surprise into a discussion on why it&amp;#39;s unexpected and what the surprise implies.  I find it&amp;#39;s best to use the &amp;quot;I knew it!&amp;quot; as an opportunity to flow through the exercise more quickly, rather than rehashing a discussion for the second time.&lt;/p&gt;
+
+&lt;h5&gt;Keep the questions &amp;amp; topics broad&lt;/h5&gt;
+
+&lt;p&gt;Simple, straightforward questions like &amp;quot;will we meet our deadline?&amp;quot; can produce non-sensical answers.  A deadline is a valuable consideration, but 10 cards about a deadline is too much information.  Get the team to broaden the topic to something like &amp;quot;the state of the project&amp;quot; and then look for answers about the deadline.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;section2&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;h3&gt;Case study: Microsoft&amp;#39;s Pathway after the Surface Debacle&lt;/h3&gt;
+
+&lt;p&gt;In order to demonstrate, I&amp;#39;ve picked a popular topic with a clear narrative.  Hopefully this will demonstrate how we can use the cards not just to find obvious answers, but explore all the nuances of the situation.  If we succeed, we&amp;#39;ll end up with something that&amp;#39;s about as high quality as most of the bullshit that&amp;#39;s out there now.&lt;/p&gt;
+
+&lt;p&gt;This is probably a good time to bring up that I work for Apple, and mention that my opinions and the opinions of the company are entirely independent entities, and I am in no way speaking for Apple, even if I obviously should&lt;sup&gt;n&amp;#39;t&lt;/sup&gt; be.  Am I biased?  Absolutely - in fact I&amp;#39;m counting on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;quot;Now, I need you to clear your mind and focus on the topic you&amp;#39;ve chosen. As you draw each card, repeat the topic to yourself in your head.  The Tarot can sometimes be mysterious, sometimes we have to look beyond ourselves for answers, so you know ... this is all BS right?  The further you stretch each card the better.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 1 - The heart of the matter / The question - The Magician&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/the-magician.jpg&quot; alt=&quot;The Magician&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;WOW.  I cannot describe to you what an amazingly fascinating card this is to pull first.  Let me try anyways, or this article is going to be hard to read.  &lt;/p&gt;
+
+&lt;p&gt;This card represents supreme talent and a holistic control of the world, with a touch of divine providence with the wand reached to the heavens and the infinity symbol above the Magician&amp;#39;s head&lt;/p&gt;
+
+&lt;p&gt;In spite all of Microsoft&amp;#39;s troubles, and &lt;em&gt;alleged&lt;/em&gt; increasing irrelevance, they still are a giant force in tech - employing loads of talented people, and still capable of moving the needle of tech - both when they succeed and even when they fail.  As an example, the Surface and Windows 8 are widely regarded as duds at this point, but the Microsoft aesthetic has widely influenced the direction of design.&lt;/p&gt;
+
+&lt;p&gt;The big red flag with this card is in regards to Microsoft&amp;#39;s reorganization.  With such a strong, divine figure at the center of this, it does imply a sense of infallibility - that they are always going to be purely themselves - even to a fault.  Switching organizational structures is not an overnight affair, and a good number of experts on the issue are pessimistic that the impact is going to be felt in any reasonable timeframe.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 2 - The Problem - Ace of Wands (inverted)&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/ace-of-wands.jpg&quot; alt=&quot;Ace of Wands, Inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;Opposing the issue, providing the central struggle, is the ace of wands.  This card represents ingenuity and creation - a divine gift...in it&amp;#39;s normal state, but it&amp;#39;s inverted, so it implies that these gifts have been overindulged and squandered.  Inverted, this card represents decay.&lt;/p&gt;
+
+&lt;p&gt;While decay is talked about a lot in reference to the company&amp;#39;s increasing irrellevance, the overindulgence that got them there is talked about less.  For most of the 90&amp;#39;s, they were perfectly happy to abuse their cash-cow, Windows, to squash the competitors to both Windows and peripheral products their web browser, Internet Explorer.&lt;/p&gt;
+
+&lt;p&gt;The fact that they crushed Netscape, is due in no small part to the fact that they directly integrated Internet Explorer code into their windowing and file system.  In the short term, this provide gains in performance and features, but ultimately this proved to be a horrible mistake as it helped create the wealth of security issues that bogged the company down for years.  It also made the underlying code very difficult to change and update, which eventually resulted in IE falling behind competing browser platforms like Firefox and Webkit.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to the Surface, and the tables have turned slightly.  Instead of using Windows to bolster the product, instead it seemed like they were attempting to use the hyped product to modernize Windows.  &lt;/p&gt;
+
+&lt;p&gt;By equivocating in this manner, they are bound by their past, and unwilling to cut ties with it even when the market is clearly suggesting an opposite approach.  Why is this?&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 3 - Root Cause - Ace of Cups&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/ace-of-cups.jpg&quot; alt=&quot;Ace of Cups&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;This card complements the Ace of Wands nicely.  The Ace of Cups represents abundance and fertility - their cup runneth over.  But this is attempting to explain the problem, not show any futures.  Microsoft attempted to rely on their past success to grow. Rather than taking a risk of failure, they assumed that Windows would always nourish the company.  But will it?&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 4 - The Past - Knight of Wands&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/knight-of-wands.jpg&quot; alt=&quot;Knight of Wands&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;This card shows a knight, not dressed for battle, meekly riding away from something, holding a stick.  It represents departure or fleeing, and I&amp;#39;d take this to represent a person.  Could this represent the departure of Bill Gates?  &lt;/p&gt;
+
+&lt;p&gt;Say what you want to about Bill Gates, but the man seemed to always understand where the opportunity was.  Why do people always talk about Tim Cook vs Steve Jobs, but never Steve Balmer vs Bill Gates?  This is a legitimate question - and I think the answer lies in the fact that no one seems to actually like Steve Ballmer or want him to succeed.  I do wonder how Bill Gates would&amp;#39;ve engineered the interface for Surface, still at the top of Microsoft.  Would the company still have this intractable addiction to Windows, or would they be working on a switch in architecture - something Apple has done three times in the past 15 years.&lt;/p&gt;
+
+&lt;p&gt;My guess is no, this card represents a figure &lt;em&gt;fleeing&lt;/em&gt;, not departing.  I think Bill Gates understood this was inevitable, and that he didn&amp;#39;t have the power to help.  So he moved on to his foundation, where he could instead release &lt;a href=&quot;http://www.youtube.com/watch?v=ppDWD3VwxVg&quot;&gt;mosquitoes on to people at a Ted Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 5 - Immediate Future - The Tower (inverted)&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/the-tower.jpg&quot; alt=&quot;The Tower, Inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;M SO SORRY YOU GUYS.  THIS IS ACTUALLY RANDOM.  I could&amp;#39;ve demonstrated this method without having to rely on literally the worst card in the Tarot.  The tower represents failure, destruction, and ruin, straight up.  In its inverted state it means the same thing, but you know its coming.  Basically this card is saying that everyone in Microsoft knows that they&amp;#39;re doomed to failure and they&amp;#39;re just waiting for it to arrive.&lt;/p&gt;
+
+&lt;p&gt;It does raise the core question - what is Microsoft&amp;#39;s value to modern world?  If it&amp;#39;s just legacy support for all the Microsoft products out there - what we should expect to see are a series of abbreviated large drops downward in marketshare as enterprises refresh their fleets of machines.&lt;/p&gt;
+
+&lt;p&gt;This is already happening in the retail space, with small businesses replacing their PC-based (and frankly ugly) POS solutions with iPads running POS software like Square.  POS hardware, from Microsoft&amp;#39;s perspective, is likely a very low margin market and not necessarily on their radar, but what was on their radar when they were developing Surface?  Did Microsoft focus on Apple too much when creating the Surface?  A number of the features, like the keyboards and the use of a filesystem, seem to directly and intentionally oppose iOS and the iPad.  A device built solely for the intetion of competing, but without any customers in mind.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 6 - The future - Five of pentacles (inverted)&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/five-of-pentacles.jpg&quot; alt=&quot;Five of Pentacles, inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;Urrrgh. Discord and ruin - peasants walkinga away from a church in a snowstorm.  This is really bad card to pull in this spot, and disastrous to pull along with The Tower.  It&amp;#39;s hard not to look at the peasants depicted and envision laid off workers.  I am curious about these workers, because I don&amp;#39;t know what successes the company is building its future around.  If you had to shed weight from the company - where would you shed it and what would you focus on?&lt;/p&gt;
+
+&lt;p&gt;These first six cards paint a very clear picture of a company that failed to innovate through its success.  The inverted tower does imply that they&amp;#39;ve seen it coming for some time, but the plethora of wealth-related cards means that the failure to progress really hasn&amp;#39;t harmed the company all that much...yet.  These last two cards do imply that there luck may change in the near future, and we may start seeing the cracks in the company foundations start to show themselves.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 7 - You, in the present - Nine of wands&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/nine-of-wands.jpg&quot; alt=&quot;Nine of Wands&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;This card represents fortifying before a battle.  Microsoft is prepared for battle, and still a formidable opponent, or at least that&amp;#39;s how they see themselves.  I tend to think this represents Microsoft&amp;#39;s attitude for quite a while now.  They&amp;#39;ve been ready to bring the battle and to fight any over market.  The problem is that they arrive after the fight is already over.&lt;/p&gt;
+
+&lt;p&gt;The figure in this card is well stocked for battle, but over what... and why?  This is really the big question surrounding Microsft right now - okay, you guys can bring the fight, but do you actually know where the fight is and where you plan to innovate?  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dashes.com/anil/2013/08/a-brief-history-of-apples-iwatch.html&quot;&gt;This piece from Anil Dash&lt;/a&gt; comes to mind, it seems like the expectation from Microsoft is that they&amp;#39;ll arrive late with a product that might have been innovative a year ago.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 8 - You, as the world sees you - The devil (inverted)&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/the-devil.jpg&quot; alt=&quot;The Devil, inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;The Devil inverted, isn&amp;#39;t as bad as it looks, especially in this situation.  The devil represents vice and addiction - all of the stuff we talked about above with Microsoft&amp;#39;s legacy.  Inverted, it represents that you&amp;#39;ve repented or overcome that darkness.&lt;/p&gt;
+
+&lt;p&gt;As Microsoft worked through Windows 8 and the Surface, we all were all willing to forgive to some extent.  Some tech bloggers went even further, portraying Microsft as the underdog and Apple as the evil giant - a total role reversal.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 9 - Key Factor / Hopes and dreams - Knight of swords (inverted)&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/knight-of-swords.jpg&quot; alt=&quot;Knight of Swords, inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;This card represents bravery and righteousness - a knight riding into battle.  But inverted, it suggests that the cause is hopeless, and to some extent that the knight is on a fool&amp;#39;s errand or too arrogant to see the error of the cause.&lt;/p&gt;
+
+&lt;p&gt;I tend to look a this card in connection with the nine of wands, another card dealing with battle.  It reinforces the notion that to some extent, Microsoft doesn&amp;#39;t understand how to properly compete in the modern world.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5&gt;Card 10 - Ultimate outcome - Two of wands inverted&lt;/h5&gt;
+
+&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+&lt;img src=&quot;/img/tarot-feature/cards/two-of-wands.jpg&quot; alt=&quot;Two of Wands, inverted&quot; title=&quot;tarot&quot;&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;This card shows a man waiting on the shore for a person or riches, but to some extent it implies that the riches may not ever arrive.  The reverse meaning implies some self-awareness of this, and that ultimately while it might not arrive, there may be more surprises and excitement in store.&lt;/p&gt;
+
+&lt;p&gt;The cards here paint an unambiguous picture - a huge and legitimate empire, represented by the Magician, surrounded by calamity and ruin and preparing for a final battle that they&amp;#39;ve already lost.  The interesting thing about this last card is that it suggests that the company will live on, but as sort of a dreamer in exile.  &lt;/p&gt;
+
+&lt;p&gt;Microsoft&amp;#39;s boat isn&amp;#39;t coming, but we may continue to see interesting and innovative things out of the company, even if they aren&amp;#39;t truly successful (the Metro UI and the Kinect are two recent things that come to mind).&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Okay - do you see what we did there?&lt;/h3&gt;
+
+&lt;p&gt;Let&amp;#39;s discuss some of the key points.&lt;/p&gt;
+
+&lt;p&gt;The presence of Bill Gates as the fleeing Knight of Wands was quite fascinating to me.  We, in the tech community spend so much time talking about Steve Ballmer that we often stop short of asking the question - who&amp;#39;s the emotional and intellectual leader of the company?  Ballmer is the lead bully, but given that they&amp;#39;re trying to compete with companies like Google and Apple, that&amp;#39;s not enough.  Those competing companies have true pioneers and heavyweights at the top.&lt;/p&gt;
+
+&lt;p&gt;Microsoft as the Magician was also a very interesting card.  The Magician, in its upright form, is one of the powerful cards in the deck.  It casts a great shadow across the rest of the cards played, because it sets up Microsoft not as a bunch of bumbling fools, but as a massive, talented power center in tech. I  think it represents what any tech company wants to achieve.  Well, everyone except Zynga.&lt;/p&gt;
+
+&lt;p&gt;I did expect to get some cards that could be taken negatively, but wasn&amp;#39;t expecting to get bashed over the head with it with the Tower and Five of Pentacles. Those may have been the two worst cards to pull in the whole deck.  They&amp;#39;re basically an obituary for the company.  This raises one of the ways that this method can be useful - addressing the elephant in the room more explicitly.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sci-Fi Interfaces</title>
+   <link href="/ux/2013/08/12/sci-fi-interfaces.html"/>
+   <updated>2013-08-12T12:00:00-05:00</updated>
+   <id>/ux/2013/08/12/sci-fi-interfaces</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/typing.gif&quot; alt=&quot;Ghost in the shell - typing&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the best UX books I&amp;#39;ve read this year, is &lt;a href=&quot;http://rosenfeldmedia.com/books/make-it-so/&quot;&gt;Make it So : Interaction Design Lessons from Science Fiction (Rosenfeld Media)&lt;/a&gt;.  This incredible book takes the approach of examining the interfaces in science fiction movies as if they are fully functional, draws assumptions about what &lt;em&gt;must&lt;/em&gt; be making them work (or not work) correctly for a user and returns those assumptions as distilled insights.&lt;/p&gt;
+
+&lt;p&gt;Through this process, the authors highlight the role that succesful interaction designers play in developing a narrative for the users to follow.&lt;/p&gt;
+
+&lt;p&gt;The Make it So blog released a few new articles spotlighting &lt;a href=&quot;http://www.imdb.com/title/tt0113568/&quot;&gt;Ghost in the Shell (1995)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scifiinterfaces.wordpress.com&quot;&gt;Make it So : Interaction Design Lessons from Science Fiction (blog)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Metropolis Tattoo Second Session</title>
+   <link href="/tattoos/2013/08/11/tatoo-progress.html"/>
+   <updated>2013-08-11T12:00:00-05:00</updated>
+   <id>/tattoos/2013/08/11/tatoo-progress</id>
+   <content type="html">&lt;p&gt;We finished up the second session on my sleeve yesterday with &lt;a href=&quot;http://jeffensminger.com&quot;&gt;Jeff Ensminger&lt;/a&gt; &lt;a href=&quot;http://instagram.com/jeffensminger&quot;&gt;(Instagram)&lt;/a&gt;.  Jeff is a super-professional artist and, as you can see, quite talented:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/assets/metropolis-sleeve-second.jpg&quot; alt=&quot;Metropolis Sleeve - Second Session&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s the first session from a month ago:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/assets/metropolis-sleeve-first.jpg&quot; alt=&quot;Metropolis Sleeve - First Session&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Only two more session to go.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A defense of Comic Sans ... (in education)</title>
+   <link href="/ux/2013/08/09/comic-sans.html"/>
+   <updated>2013-08-09T12:00:00-05:00</updated>
+   <id>/ux/2013/08/09/comic-sans</id>
+   <content type="html">&lt;p&gt;YES - I&amp;#39;ve been searching for this article for years.  If you&amp;#39;re like me, you got tired of making fun of Comic Sans in 2006.  I mean, Comic Sans is the &amp;quot;that what she said&amp;quot; of font jokes.  So, here&amp;#39;s an article that argues that for elementary schools it&amp;#39;s a scientifically justifiable font choice, and that your / mine aestethetics be damned.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[The] research found a correlation between the effort it took to read text and the ability of subjects to remember that information for later testing. Yes, information presented in a &amp;quot;harder-to-read&amp;quot; font -- such as Comic Sans -- was better remembered than the same information in easier-to-read type.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That said, this strategy probably does tax the brain more, which has tradeoffs of its own, so don&amp;#39;t go start writing novels in Comic Sans, or really anything - the font is really quite ugly.  I&amp;#39;m interpreting it more as &amp;quot;Yay, you read a font joke! Do you want some actual information about the font?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;This actually reminds me of an essay on &lt;a href=&quot;http://www.mcsweeneys.net/articles/im-comic-sans-asshole&quot;&gt;McSweeney&amp;#39;s site written using the voice of Comic Sans&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You don’t like that your coworker used me on that note about stealing her yogurt from the break room fridge? ... Sorry I’m standing in the way of your minimalist Bauhaus-esque fascist snoozefest. Maybe sometime you should take off your black turtleneck, stop compulsively adjusting your Tumblr theme, and lighten the fuck up for once.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Chill dude, we&amp;#39;re over it - see? &lt;a href=&quot;http://www.fastcodesign.com/1665318/the-8-worst-fonts-in-the-world&quot;&gt;It&amp;#39;s the London Olympics font&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.edutopia.org/blog/fonts-help-students-remember-read-jason-cranford-teague&quot;&gt;Design 101 for Educators: Choose Your Fonts Carefully (edutopia)&lt;/a&gt; by &lt;a href=&quot;http://twitter.com/jasonspeaking/&quot;&gt;Jason Cranford Teague&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shoe Shopping & Purchasing: The Survey</title>
+   <link href="/ux/2013/08/07/shoe-survey.html"/>
+   <updated>2013-08-07T12:00:00-05:00</updated>
+   <id>/ux/2013/08/07/shoe-survey</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/survey-screenshot.jpg&quot; alt=&quot;Survey Screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Hey folks, I&amp;#39;ve created a brief survey to conduct some follow-on research for the next shoe-related feature.  Right now, the average time to fill it out is coming in at 2 minutes and 37 seconds, so if you&amp;#39;ve got that (or more) to spare, I&amp;#39;d be grateful if you filled out the survey.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bentley.qualtrics.com/SE/?SID=SV_5tlN5wMKU3zkJy5&quot;&gt;Survey Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Your app makes me fat</title>
+   <link href="/ux/2013/08/01/fat-app.html"/>
+   <updated>2013-08-01T12:00:00-05:00</updated>
+   <id>/ux/2013/08/01/fat-app</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/FixedMemorization.jpg&quot; alt=&quot;Uncanny Valley Graph&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a completely fascinating article that demonstrates the strong link between cognitive load and willpower.  This same theory also applies to creativity - see this &lt;a href=&quot;http://www.ted.com/talks/don_norman_on_design_and_emotion.html&quot;&gt;Ted Talk by Don Norman&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As an additional note, this article comes from a new blog dedicated to UX and pictures of horses.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat&quot;&gt;Your app makes me fat (Serious Pony)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ruuunnn: Uncanny Valley</title>
+   <link href="/ux/2013/07/31/uncanny-valley.html"/>
+   <updated>2013-07-31T12:00:01-05:00</updated>
+   <id>/ux/2013/07/31/uncanny-valley</id>
+   <content type="html">&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/70775770 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Generally, when we hear about the uncanny valley - it’s someone talking about Zombies, Polar Express or a freaky japanese robot face. Translate - someone is trying to gross us out or they kinda fucked up. Artist Mike Pelletier has taken a different approach, attempting to dive in and out of the valley - creating things that are varying level of bothersome.&lt;/p&gt;
+
+&lt;p&gt;The uncanny valley describes an effect where humans can accept and respond positively to anthropomorphic forms up to a point. But when those forms start to get too close, our level of acceptance drops dramatically, and we can respond very negatively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/assets/uncannyvalley.jpg&quot; alt=&quot;Uncanny Valley Graph&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Image credit - &lt;a href=&quot;http://www.theatlantic.com/politics/archive/2012/01/the-uncanny-valley-what-robot-theory-tells-us-about-mitt-romney/252235/&quot;&gt;The Atlantic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wired.co.uk/news/archive/2013-07/31/parametric-expression&quot;&gt;Horrifying and beautiful: embracing the uncanny valley effect (Wired UK)&lt;/a&gt; via &lt;a href=&quot;http://animalnewyork.com/2013/the-uncanny-valley-effect-a-very-very-disconcerning-realistic-3d-animation/&quot;&gt;Animal New York&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Flavor Bible</title>
+   <link href="/food-and-drink/2013/07/31/flavor-bible.html"/>
+   <updated>2013-07-31T12:00:00-05:00</updated>
+   <id>/food-and-drink/2013/07/31/flavor-bible</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/flavor-bible.jpg&quot; alt=&quot;Flavor Bible - Lavendar Page&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re like me and scour the internet for multiple recipes to sort of “frankenrecipe”, I highly recommend this book. I just picked up a copy today, and haven’t put it down (I accidentally glued it to my pants).&lt;/p&gt;
+
+&lt;p&gt;This cookbook has no recipes, instead opting for 339 pages of what it calls “Flavor Matchmaking Charts” - an alphabetical list of every ingredient and a companion list of things that complement the ingredient, as well as useful advice from chefs. So, instead of asking “can I substitute ingredient X” and trying to find someone who agrees with you on foodnetwork.com, you can just look it up in the damn book.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, as seen above, more complementary ingredients get more weight and capitalization, so lavender goes great with &lt;strong&gt;HONEY&lt;/strong&gt; and &lt;strong&gt;LAMB&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.amazon.com/The-Flavor-Bible-Creativity-Imaginative/dp/0316118400&quot;&gt;Flavor Bible (Amazon)&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shrubs</title>
+   <link href="/food-and-drink/2013/07/30/shrubs.html"/>
+   <updated>2013-07-30T12:00:01-05:00</updated>
+   <id>/food-and-drink/2013/07/30/shrubs</id>
+   <content type="html">&lt;p&gt;If shrubs aren&amp;#8217;t bushes, what are they? Shrubs, in the context of this article, are a combination of fruit sugars, sugar sugars and vinegar. The result is a thin syrup with a flavor profile somewhere in the middle between fruity pebbles and salad dressing. It&amp;#8217;s a great addition to cocktails and to sparkling water (for a more complex italian soda). About three months ago, it was all the rage in cocktails, before it was displaced by Mezcal, then Averna, then crushed-ice cocktails, then cocktails named &amp;#8220;swizzle&amp;#8221;, and finally it&amp;#8217;s regained the crown as a subject of interest in bartenders and cocktailinista&amp;#8217;s for at least the next 10-14 days. While it&amp;#8217;s still popular, I&amp;#8217;ll take the opportunity to share what I know, and drop some links for those who might be interested.&lt;/p&gt;
+
+&lt;h4&gt;Straight Shrubbin&amp;#8217;&lt;/h4&gt;
+
+&lt;p&gt;Your archetypical recipe is basically going to be something like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  1 part chopped &amp;#8220;fruit&amp;#8221; (a lot of veggies and peppers will work great for this too. I&amp;#8217;ve done beets, tomatoes and celery just to give a few examples.)&lt;/li&gt;
+&lt;li&gt;  1 part &amp;#8220;sugar&amp;#8221; (honey, raw sugars and brown sugar all work fine)&lt;/li&gt;
+&lt;li&gt;  1/2 - 1 part &amp;#8220;vinegar&amp;#8221; (actually vinegar)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Combine the fruit and sugar into an air-tight container, and stir or shake it a few times a day for 1-3 days. The sugar will draw the juice out of the fruit and into a solution, leaving desicated, flavorless husks. When all the sugar has gone into solution, strain the mixture and combine it with the vinegar. You&amp;#8217;re pretty much done at that point.&lt;/p&gt;
+
+&lt;p&gt;The shrub will continue to evolve over the next few weeks as the vinegar converts some of the extra sugars into more vinegar. Everyone describes this process as &amp;#8220;mellowing&amp;#8221;, and that&amp;#8217;s fine by me to.&lt;/p&gt;
+
+&lt;p&gt;Let me put this into practice in a way that makes you say &amp;#8220;mmmmmm&amp;#8230;&amp;#8221;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  1 cup chopped strawberries&lt;/li&gt;
+&lt;li&gt;  1 cup sugar&lt;/li&gt;
+&lt;li&gt;  1 cup champagne vinegar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And I might put .5 oz of this stuff in a gin cocktail or in a Pimm&amp;#8217;s cup with soda water, as a substitute for the lemonade.&lt;/p&gt;
+
+&lt;p&gt;&lt;aside class='pull pull-right'&gt;&lt;/p&gt;
+
+&lt;h5&gt;Bonus round: mother of vinegar...FIGHT&lt;/h5&gt;
+
+&lt;p&gt;Rumor has it that shrubbing will occasionally score you some &amp;quot;mother of vinegar&amp;quot;&lt;sup&gt;[1]&lt;/sup&gt;, which is a somewhat strange, borderline Wiccan, way to say &amp;quot;vinegar starter&amp;quot; (I mean - we don&amp;#39;t we call seeds &amp;quot;mother of cucumber&amp;quot; or yeast &amp;quot;bread daddies&amp;quot;).&lt;/p&gt;
+
+&lt;p&gt;Much like bacon grease - just because you &lt;em&gt;can&lt;/em&gt; collect it, it doesn&amp;#39;t mean you have to.  Mother of Vinegar won&amp;#39;t affect the shrub or vinegar and should drop out of solution into a solid layer once it has done its thing.  If you are interested in making your own vinegar, &lt;a href=&quot;http://lmgtfy.com/?q=how+to+make+vinegar+with+mother+of+vinegar&quot;&gt;good for you!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/aside&gt;&lt;/p&gt;
+
+&lt;h4&gt;Spicy Shrubbin&amp;#8217;&lt;/h4&gt;
+
+&lt;p&gt;Shrubs are actually an incredibly effective way to add spice and heat to a cocktail.&lt;/p&gt;
+
+&lt;p&gt;Typically, you&amp;#8217;d use hot sauce, which is really only effective in &amp;#8220;kitchen sink&amp;#8221; cocktails, like bloody mary&amp;#8217;s. Another way would be by infusing the peppers directly into the alcohol, which works better for clear alcohols and is also really great way to ruin an entire bottle of decent alcohol, if you&amp;#8217;re experimenting. Wouldn&amp;#8217;t you rather ruin a cup of peppers and 15 minutes of your life. I would, and this is true in many, many contexts - not just shrubs.&lt;/p&gt;
+
+&lt;p&gt;So, we&amp;#8217;ll evolve our previous recipe:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  1/4 cup chopped habanero peppers&lt;/li&gt;
+&lt;li&gt;  3/4 cup chopped straweberries&lt;/li&gt;
+&lt;li&gt;  1 cup brown sugar&lt;/li&gt;
+&lt;li&gt;  2/3 cup Unfiltered Apple Cider Vinegar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This has more bite, so it may be used more sparingly and with a slightly more robust alcohol - with mezcal in an old fashioned.&lt;/p&gt;
+
+&lt;div class='carousel slide' id='carousel-example-generic'&gt;
+  &lt;!-- Indicators --&gt;
+  &lt;ol class='carousel-indicators'&gt;
+    &lt;li class='active' data-target='#carousel-example-generic' data-slide-to='0' /&gt;
+    &lt;li data-target='#carousel-example-generic' data-slide-to='1' /&gt;
+    &lt;li data-target='#carousel-example-generic' data-slide-to='2' /&gt;
+  &lt;/ol&gt;
+  &lt;!-- Wrapper for slides --&gt;
+  &lt;div class='carousel-inner'&gt;
+    &lt;div class='item active'&gt;
+      &lt;img src='/img/shrubs/prep.jpg' /&gt;
+      &lt;div class='carousel-caption'&gt;
+        The fruit
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='item'&gt;
+      &lt;img src='/img/shrubs/plus-zero.jpg' /&gt;
+      &lt;div class='carousel-caption'&gt;
+        The choppped fruit, combined with sugar and coffee and shaken.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class='item'&gt;
+      &lt;img src='/img/shrubs/plus-twelve.jpg' /&gt;
+      &lt;div class='carousel-caption'&gt;
+        At twelve hours, a good deal of juice has already been drawn into solution and mixed with the coffee
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;!-- Controls --&gt;
+  &lt;a class='left carousel-control' data-slide='prev' href='#carousel-example-generic'&gt;
+    &lt;span class='icon-prev' /&gt;
+  &lt;/a&gt;
+  &lt;a class='right carousel-control' data-slide='next' href='#carousel-example-generic'&gt;
+    &lt;span class='icon-next' /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Straight Insanity&lt;/h4&gt;
+
+&lt;p&gt;If you&amp;#8217;re like me, you can only do something so many times before it gets boring. In order to keep going, you&amp;#8217;ve got to occassionally try something that - &amp;#8220;no way this works, but if it does&amp;#8230;(it still might suck)&amp;#8221; So, let&amp;#8217;s add coffee because, why not?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  1/4 cup chopped habanero peppers&lt;/li&gt;
+&lt;li&gt;  1 cup chopped straweberries&lt;/li&gt;
+&lt;li&gt;  2 oz finely ground coffee&lt;/li&gt;
+&lt;li&gt;  1 cup brown sugar&lt;/li&gt;
+&lt;li&gt;  2/3 cup Unfiltered Apple Cider Vinegar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We&amp;#8217;re going to make a cold brew and a shrub at the same time. &lt;em&gt;If this works&lt;/em&gt;, I&amp;#8217;m going to try and mix it with rye, bitters and an orange slice.&lt;/p&gt;
+
+&lt;h4&gt;Places to score some shrub in Austin&lt;/h4&gt;
+
+&lt;p&gt;Really, any place that has a drink called a &amp;#8220;swizzle&amp;#8221; on their cocktail menu is probably going to be sporting some sort of shrub amongst their mixers and bitters, but here are a few I&amp;#8217;ve come across.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  &lt;a href=&quot;http://contigoaustin.com&quot;&gt;Contigo&lt;/a&gt; - the &amp;#8220;Vinegaroon&amp;#8221; features a pineapple-sage shrub with tequila, which is about perfect. I had them serve me up one with Mezcal - and that worked too.&lt;/li&gt;
+&lt;li&gt;  &lt;a href=&quot;http://congressaustin.com/bar-congress/&quot;&gt;Bar Congress&lt;/a&gt; - usually has a seasonal shrub on the menu.&lt;/li&gt;
+&lt;li&gt;  &lt;a href=&quot;http://www.drinkwellaustin.com&quot;&gt;drink.well.&lt;/a&gt; - one the bartenders had made a cayenne shrub which he mixed with orange juice and froze. That was then used as an ice cube for an mezcal old-fashioned that yours truly may have drank - the drink was overpowering and wonderful and it transformed as the ice melted. It was three drinks in one drink - each imperfect in its own amazing way. I don&amp;#8217;t think this is a normal thing they do, but maybe if someone else brings it up - they&amp;#8217;ll start making more shrub-cubes - or &amp;#8220;solid shrubs&amp;#8221;, as they were once known.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always, if you see a shrub on the drink menu, dont&amp;#8217;t be afraid to ask your bartender to get creative with it. Give him or her a few adjectives and see what they come up with.&lt;/p&gt;
+
+&lt;h4&gt;Learning more shrub techniques&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  &lt;a href=&quot;http://badassdigest.com/2013/04/06/your-guide-to-drinking-this-weekend-shrub-cocktails/&quot;&gt;Austin Cocktail King, Bill Norris, shares some history and shrubbing techniques&lt;/a&gt;. This article focuses a lot on taste profiles and has some simple drink suggestions. I&amp;#8217;d largely forget my recipes and read this.&lt;/li&gt;
+&lt;li&gt;  &lt;a href=&quot;http://bringmeashrub.blogspot.com&quot;&gt;Bring me a shrub&lt;/a&gt; - this now defunct blog has several dozen recipes. Read for ideas, and for the side narrative of the author, Kern the Shrubber, slowly going insane over the course of two years, attempting to keep his sanity intact by writing about shrubs. In some case, the shrubs are euphamisms, so any odd ingredient choices should be read as metaphorical.&lt;/li&gt;
+&lt;li&gt;  &lt;a href=&quot;http://us4.campaign-archive2.com/?u=0cdf199afdadbc1c8ec932f74&amp;amp;amp;id=ad8729dcb1&amp;amp;amp;e=%5BUNIQID%5D&quot;&gt;Garden news talks about &amp;#8220;drinking vinegars&amp;#8221;&lt;/a&gt; - this stuff is really interesting, but everytime I&amp;#8217;m on the garden news website, I start feeling guilty that I don&amp;#8217;t water my apartment plants as often as I should. Just be wary - the site has a suffocating &amp;#8220;I love and water my plants all the time&amp;#8221; air about it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;addendum&quot;&gt;[1] Thanks to Sam Higgins and his cloudy shrub&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bullshitreference.com - a bullshit translator</title>
+   <link href="/ux/2013/07/30/bullshit-reference.html"/>
+   <updated>2013-07-30T12:00:00-05:00</updated>
+   <id>/ux/2013/07/30/bullshit-reference</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/bullshit.translator_wastedrita.jpg&quot; alt=&quot;Bullshit Translator&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;A pretty amazimg and coherent lo-fi prototype for the fictional website “bullshitreference.com” by &lt;a href=&quot;http://ritabored.blogspot.com/&quot;&gt;wasted rita&lt;/a&gt;. I, for one, would use this site.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shoe Decisions</title>
+   <link href="/features/fashion/2013/07/28/shoe-decisions.html"/>
+   <updated>2013-07-28T12:00:01-05:00</updated>
+   <id>/features/fashion/2013/07/28/shoe-decisions</id>
+   <content type="html">&lt;p&gt;First things first, I need to come clean about to everyone. My name is Lloyd Thompson, and over the past two years, I’ve gone from owning a single pair of Justin cowboy boots and some beat up sketchers to a compulsive shoe shopper. I&amp;#8217;m not going to start throwing out dollar amounts, but suffice to say its enough that I&amp;#8217;ve had to invest in a custom storage solution, and when I run out of room I have to donate shoes to the goodwill. To those of you who don&amp;#8217;t buy shoes a lot, you now know my/this secret. To those of you who do - fuck yeah, let&amp;#8217;s go buy some cowboy boots RIGHT NOW. Call me.&lt;/p&gt;
+
+&lt;p&gt;This is relevant because a few months ago, I had the opportunity to conduct some research on how and why people buy shoes. I conducted interviews, spent (more) time on shoe shopping sites, and even spent hours watching people try on and buy shoes. I came up with a number of earth shattering insights, all of which I’ll share in a later article, about why and how people buy shoes. More importantly, it helped clue me in on what the hell I was doing - something I’d earnestly been confused about (i.e. - “I just bought three pairs of shoes, why did I do that?”).&lt;/p&gt;
+
+&lt;p&gt;In this article, I’ll cover the most base topic and try and understand how people  make a decision to buy a particular pair of shoes. Specifically, we’ll be looking at how the BRAIN facilitates the decision. The HUMAN BRAIN operates through three distinct processing centers, and the way this maps to something fairly granular like shoe shopping is really, really awesome if you like buying shoes. If this doesn’t interest you, here’s a video of the cast of &lt;a href=&quot;http://heyyeyaaeyaaaeyaeyaa.com&quot;&gt;He-Man singing 4 Non Blondes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Back yet?&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;section1&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;h4&gt;The three domains of processing and purchasing&lt;/h4&gt;
+
+&lt;p&gt;One way to think about the brain is to think about it in terms of &lt;a href=&quot;http://www.jnd.org/dn.mss/CH01.pdf&quot;&gt;processing centers&lt;/a&gt; - layers that interpret the world for us in distinct ways and reflect our evolutionary history as a species.&lt;/p&gt;
+
+&lt;p&gt;&lt;aside style='max-width: 410px' class='img pull-right'&gt;
+    &lt;a data-toggle='lightbox' href='#shoeChart'&gt;&lt;img src='/img/shoe-feature/eval-chart.png' alt='A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing' /&gt;&lt;/a&gt;
+    &lt;div tabindex='-1' role='dialog' class='lightbox hide fade' id='shoeChart' aria-hidden='true'&gt;
+        &lt;div class='lightbox-content hide-caption'&gt;
+            &lt;img src='/img/shoe-feature/eval-chart.png' alt='A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing' /&gt;
+            &lt;div class='lightbox-caption'&gt;&lt;p&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/p&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style='margin-top: 3px;' class='caption'&gt;
+        &lt;em&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/em&gt;&lt;Br /&gt;
+        A depiction of the implied decision making domains regarding shoe purchase, and how quality, comfort and value help individuals conceptualize the major decisions in a purchase.
+    &lt;/div&gt;
+&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;The first domain is the visceral domain where we size up the physical and aesthetic characteristics of a shoe. This is partially our biology at work, but it’s also our first pass at identifying beauty. Beautiful things have organic shapes to them, they have colors and textures that identify their characteristics in easy to understand ways, and they are distinct and unique. In my own personal experience, a strong visceral reaction is one that requires a moment of quiet to fully absorb - where we wait for the words to arrive.&lt;/p&gt;
+
+&lt;p&gt;The second domain is a personal or emotional domain. Almost instantaneously after a shoe catches our eye, we get a similar assessment of how relevant that shoe is to us. Does it reinforce our self-image? Does it match our clothes? Is it what we came here looking for? Most importantly, we understand the situation we’re going to wear that shoe in. A work shoe vs. a party shoe vs. a winter boot - we don’t need really need to think about those things, we just get it based on our experience.&lt;/p&gt;
+
+&lt;p&gt;Before we move on to the third, and final, domain - I want to make clear that these first two domains are processed largely unconsciously and almost instantaneously. That is to say, we’re not necessarily aware that they’re happening, and we’re not necessarily capable of taking advantage of their assessment, as in the case of making a purchase, they don&amp;#8217;t always arrive to us with a clear action in mind, because the action requires a mental follow-up.&lt;/p&gt;
+
+&lt;p&gt;One of the key differentiators between expert and novice shoe shoppers seemed to be the comfort level involved in translating these first two domains of processing into actionable data points for the third domain - the fun part where we make the decision.&lt;/p&gt;
+
+&lt;p&gt;The third domain is a reflective and logical domain of processing. The logical domain gets to sort out everything else. Given infinite processing resources and all of the available information, it could probably do this, but it has neither of these. First, we don’t know the entire history of the shoe, the company and all of the variables involved in shoe manufacturing and resale and even if we did the brain can only juggle a few variables at a time (between 4 and 9, based on various sources&lt;sup&gt;[1]&lt;/sup&gt;). Complicating matters is the possibility that our visceral and emotional verdict was tainted by some external factor, like display lighting, glossy leather or a photoshopped online photo.&lt;/p&gt;
+
+&lt;p&gt;We deal with all this complexity in two ways.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;section2&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;h4&gt;Verification&lt;/h4&gt;
+
+&lt;p&gt;The first is to verify that instantaneous understanding of the shoe. Our interviews provided some interesting insight into how this happens. When people talked to us, they frequently used two words - “quality” and “comfort”, but in different contexts. Sometimes when people talked about quality - they were talking about the texture and the color or the look of the leather - these are visceral elements. Other times, they were talking about the thickness of the leather, and the stitching or the sole - these are quite practical considerations of how long we expect the shoe to last. So, using this data, we can say that by examining “quality” - we’re actually logically evaluating our visceral understanding of the shoe.&lt;/p&gt;
+
+&lt;p&gt;The same holds true for comfort - sometimes the interview subject would talk about comfort in terms of fit and shape, but really what they ultimately came back to was how long they thought they could wear it and how well that matched up to situation they imagined using the shoe in. Work shoes need to be worn all day, but a shoe for a party only needs to be worn for a few hours and comfort is an evaluation of whether or not the shoe could be used for the specified period of time. In this sense, comfort is actually a measure of time, not of how comfortable something is, and this time allows us to logically evaluate whether or not this shoe is actually personally relevant to our situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;section3&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;h4&gt;Strategy&lt;/h4&gt;
+
+&lt;p&gt;&lt;aside class='pull pull-right'&gt;
+&lt;h5&gt;Biases in decision making : sizing vs fit&lt;/h5&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes when we're making a decision we consider incorrect data or weigh particular elements of a decision improperly.  When we do this, we’re exhibiting a bias.  We found two biases around sizing - one bias we encountered was the notion that if two different styles of the same brand shoe have different fits (you wear size 11 in one and size 10.5 in the other) that it indicates poor manufacturing quality.  Shoes are hand assembled on “lasts” - models of a foot - and those lasts are what the size is determined from.  If you use a different last for a different style (heels vs flats), you may get a different fit and require a different size.&lt;/p&gt;
+
+&lt;p&gt;In this case, the bias is rooted in the assumption that size is a characteristic of our foot - “I’m a size 11”.  This is incorrect - the model used to make most of your shoes is a size 11, and your foot is in irregularly sized approximatation of a “normal” foot.&lt;/p&gt;
+
+&lt;div style='width: 60%; border: none; padding: 5px; ' class='pull-right'&gt;
+    &lt;em&gt;Figure 2 - Women's shoe purchases, 1998 &lt;sup&gt;[2]&lt;/sup&gt;&lt;/em&gt;
+    &lt;a data-toggle='lightbox' href='#shoeGraph'&gt;&lt;img src='/img/shoe-feature/shoe-graph.png' alt='A chart that shows that shoe purchases do not follow a normal mathematical distribution.' /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div tabindex='-1' role='dialog' class='lightbox hide fade' id='shoeGraph' aria-hidden='true'&gt;
+    &lt;div class='lightbox-caption'&gt;&lt;p&gt;Figure 2 - Women's shoe purchases, 1998&lt;/p&gt;&lt;/div&gt;
+    
+    &lt;div class='lightbox-content'&gt;
+        &lt;img src='/img/shoe-feature/shoe-graph.png' alt='A chart that shows that shoe purchases do not follow a normal mathematical distribution.' /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The second bias we encountered was a striking preference for whole numbers in sizing, shown on the graph to the right.  While it's difficult to know the reasons this trend exists, it suggests that either human feet grow naturally into even whole number segments on an arbirtrary scale or that a great deal of ignorance over sizing and impies that a good deal of Americans are wearing ill-fitted shoes.  Past research rules out the former, so it's probably the latter.&lt;/p&gt;
+
+&lt;p&gt;Try on multiple sizes!&lt;/p&gt;
+
+&lt;p&gt;&lt;/aside&gt;&lt;/p&gt;
+
+&lt;p&gt;The second part of getting through the complexity involves strategy selection. There are still too many shoes and too many variables for most people to realistically deal with, so we need to eliminate some of the options. We do this in a number of ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  Brand bias - we’re more likely to go with a brand we already know and like. Sometimes we even pre-select the brand ahead of time. Think Frye boots. Similarly, we can have very negative impression of brands, depending on the type of people who typically wear them. Sperry Top Siders are quite controversial.&lt;/li&gt;
+&lt;li&gt;  Fashion bias - we haven’t spent much time talking about society’s role in evaluation and purchasing, but it’s obviously a major player. Square-toed shoes and flip-flops (on men) scored very negatively among our interview subjects, despite very little personal experience with them.&lt;/li&gt;
+&lt;li&gt;  Budgets - a budget can work in both direction. Shoppers can have lower limits and upper limits to their purchases.&lt;/li&gt;
+&lt;li&gt;  Social shopping - when we bring a friend or consult a sales-person, we can offload some of the thinking to them. Not having to deal with things like cost and selection, they can help us put words to feelings that we have. They can also provide us with social reinforcement. This all assumes that we trust their judgement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When all else fails, we can hit overload. When we max out and can’t juggle the variables anymore, sometimes we just make a yes or no decision - based on pressure or exhaustion - or the last factor we examined. Sometimes it’s a good one, sometimes not. While you don’t want to make decisions this way, it’s largely part of being human. Just try buying peanut butter at the Whole Foods for the first time.&lt;/p&gt;
+
+&lt;h4&gt;What is the value of your favorite shoes?&lt;/h4&gt;
+
+&lt;p&gt;What we&amp;#8217;re trying to determine out of all this is some sense of overall value. A big part of it is price, but I&amp;#8217;d argue that price is just another possible bias, unless we&amp;#8217;re comparing it against something at which point it becomes the final gateway between the logical part of our brain and the final decision. At the end of the day, we end up with a shoe or shoes (add-on purchases seemed to be quite common), how happy we are with these shoes is based on how successful we were in translating our visceral and emotional signals into an action. The favorite shoes of the people we talked were the ones that matched up to their intended situations the best and also expressed a very personal aesthetic.&lt;/p&gt;
+
+&lt;p&gt;So, when you&amp;#8217;re shoe shopping, take some time and try and figure out what you&amp;#8217;re attracted to before you start worrying and focusing on making a decision. Chances are you&amp;#8217;ll end up with more adventurous choices, a better experience and hopefully some compliments.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Up next...&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If we continue to explore this topic more, we’ll look at some of the personas people adopt when they purchase shoes. These personas will help describe how frequently people buy shoes, what types of shoes they’re likely to buy, and some of the shopping strategies they use.&lt;/p&gt;
+
+&lt;h5&gt;Shoes / Works Cited&lt;/h5&gt;
+
+&lt;p class=&quot;addendum&quot;&gt;[1] Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. Behavioral and brain sciences, 24(1), 87-114.&lt;/p&gt;
+
+&lt;p class=&quot;addendum&quot;&gt;[2] Bodziak, W. J. (1999). Footwear impression evidence: detection, recovery and examination. CRC.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  &lt;a href=&quot;http://www.fluevog.com/code/?w=family%3ARadios&amp;amp;amp;p=3&amp;amp;amp;pp=1&amp;amp;amp;view=detail&amp;amp;amp;colourID=2562&quot;&gt;John Fluevog - Radios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;  &lt;a href=&quot;http://helmboots.com/collections/shop/products/reid&quot;&gt;Helm Boots - Reid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do I really have to name this post 'welcome to my site?'</title>
+   <link href="/site-stuff/2013/07/28/first-post.html"/>
+   <updated>2013-07-28T12:00:00-05:00</updated>
+   <id>/site-stuff/2013/07/28/first-post</id>
+   <content type="html">&lt;p&gt;Before I start into anything here, and I will ramble, let me encourage you to go read the &lt;a href=&quot;/features/fashion/2013/07/28/shoe-decisions.html&quot;&gt;actual feature&lt;/a&gt; instead, if you haven’t already read it. This post is, even at its very best and most eloquent, will just end up being filler.&lt;/p&gt;
+
+&lt;p&gt;For a while, I’ve been wanting a place to post bigger pieces of content and random thoughts and I’ve simultaneously been really desiring to actually invest in a personal project and design something new from the ground up. By launching, I think I’ve accomplished both of these things.&lt;/p&gt;
+
+&lt;p&gt;So, now what? I’ve got a few goals in mind for this site:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Post insights on some of the longer user experience and research projects.&lt;/li&gt;
+&lt;li&gt;Share some of the great places and finds that I run across in the food &amp;amp; drink world.&lt;/li&gt;
+&lt;li&gt;Pictures of my cat, because hashtag, fuck it why not?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From there - hopefully some evolution and then maybe someday a post that says “I haven’t posted here in a while” - as I’m pretty sure that’s as standard for blogs and tumblrs now as it was 18 years ago, when people did online journals.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting! Critical feedback, please.&lt;/p&gt;
+
+&lt;p class='addendum'&gt;PS - I haven't tested this yet in IE (I know). Part of me wants to add an IE style sheet that just says &quot;psyyycchh - use a real browser, please&quot;, but then what would all the call center employees of the world use to look at my site? I'M ON IT, OKAY?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

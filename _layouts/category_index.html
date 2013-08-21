@@ -1,0 +1,73 @@
+---
+test: "var"
+---
+{% include header.html %}
+
+<div class="front-header category-index">
+	<div class="front-hero">
+		<img alt="" src="data:image/gif;base64,R0lGODlhBQABAIAAAP///wAAACH5BAEAAAAALAAAAAAFAAEAAAIChF0AOw==" />	
+		<img src='/img/hero-index.jpg' class="hero-image" alt="Big Kitchen" />
+	</div>
+
+	<h1><img src='/img/logo-retina.png' alt="Lloyd" /></h1>
+
+	<h2>Category : {{ site.categoryNames[page.category] }}</h2>
+</div>
+
+<hr class="l7">
+
+<section id="posts">
+	<div class="content">
+	{% for post in site.categories[page.category] %}
+		{% case post.layout %}
+		{% when "feature" %}
+			<div class="post feature clearfix">
+				<a href='{{ post.url }}' class="feature-header-link">
+					<h3>
+						<img src='{{ post.previewImage }}' alt='{{ post.subtitle }}' title="{{ post.subtitle }}" />
+						<span>{{ post.title }}</span>
+					</h3>
+				</a>
+				<div class="post-text">
+					<p>{{ post.preview | markdownify }}</p>
+					<p><a href='{{ post.url }}'>Read the rest...</a></p>
+				</div>
+	
+				<div class="timestamp">
+					{{ post.date | date_to_string }} | 
+					<a href='{{ post.url }}'>permalink</a>
+				</div>
+			</div>
+			
+		{% when "post" %}
+			<div class="post clearfix">
+				{% if post.externalUrl %}
+					<h3><a href='{{ post.externalUrl }}' target=_blank>{{ post.title }} &nbsp; <span class="icon-external-link"> </span></a></h3>
+				{% else %}
+					<h3><a href='{{ post.url }}' target=_blank>{{ post.title }}</a></h3>
+				{% endif %}
+	
+				<div class="post-text">
+					{% if post.previewImage %}
+						<img src='{{ post.previewImage }}' alt='{{ post.subtitle }}' title="{{ post.subtitle }}" />
+					{% endif %}
+
+					{% if post.preview %}
+						{{ post.preview | markdownify }}
+						<p><a href='{{ post.url }}'>Read the rest...</a></p>
+					{% else %}
+						{{ post.content | markdownify }}
+					{% endif %}				
+				</div>
+				<div class="timestamp">
+					{{ post.date | date_to_string }} | 
+					<a href='{{ post.url }}'>permalink</a>
+				</div>
+			</div>
+		{% endcase %}
+	{% endfor %}
+	</div>
+</section>
+
+{% include footer.html %}
+
