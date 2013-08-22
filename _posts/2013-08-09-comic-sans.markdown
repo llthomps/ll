@@ -7,7 +7,7 @@ categories: ux
 externalUrl: http://www.edutopia.org/blog/fonts-help-students-remember-read-jason-cranford-teague
 ---
 
-YES - I've been searching for this article for years.  If you're like me, you got tired of making fun of Comic Sans in 2006.  I mean, Comic Sans is the "that what she said" of font jokes.  So, here's an article that argues that for elementary schools it's a scientifically justifiable font choice, and that your / mine aestethetics be damned.
+YES - I've been searching for this article for years.  If you're like me, you got tired of making fun of Comic Sans in 2006.  I mean, Comic Sans is the "that what she said" of font jokes.  So, here's an article that argues that for elementary schools it's a scientifically justifiable font choice, and that your / mine aesthetics be damned.
 
 > [The] research found a correlation between the effort it took to read text and the ability of subjects to remember that information for later testing. Yes, information presented in a "harder-to-read" font -- such as Comic Sans -- was better remembered than the same information in easier-to-read type.
 

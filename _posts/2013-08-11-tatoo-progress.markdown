@@ -13,4 +13,4 @@ Here's the first session from a month ago:
 
 ![Metropolis Sleeve - First Session](/img/assets/metropolis-sleeve-first.jpg)
 
-Only two more session to go.
+Only two more sessions to go.

@@ -39,15 +39,15 @@ What I do think is that they're a great way to force people to make connections 
 The reading has three phases - the reading itself, a discussion of key themes in the reading, and the generation of actions or follow-up questions.  As always, address your goals up front.  It's important to make clear that you're relying on their interpretation, and that you don't expect the cards to influence or predict anything.
 
 + The reading itself only has one rule - that **all cards played must have a coherent interprentation**.  Discuss the meaining of the card placement up-front, and then read the meaning for each card aloud and allow the team to interpret that into how it applies to the project.  The Tarot generally has two subjects it addresses - the situation or question and the querent / subject of the reading.  For the the Tarot method, this can be abstracted as the facilitator sees fit.
-+ As the team works throught the questions, the facilitator should **take note of surprises and themes that pop up frequently**.  Try and grab 3+ of these themes.  When the reading is over, open up each of these themes for a general discussion.  At this point, you'll want to keep discussion broad.  The discussion should start to narrow and as it does and begins to move towards tactics to address the issue, it's probably time to capture those actions move on to the next topic.
++ As the team works throughout the questions, the facilitator should **take note of surprises and themes that pop up frequently**.  Try and grab 3+ of these themes.  When the reading is over, open up each of these themes for a general discussion.  At this point, you'll want to keep discussion broad.  The discussion should start to narrow and as it does and begins to move towards tactics to address the issue, it's probably time to capture those actions move on to the next topic.
 + The last part is the distillation. Each discussion item should ideally **produce a list of follow-ups and actions**.  Review those with the team and try and identify the DRI (directly responsible individual).
 
-In my experience, participants will often want to conduct multiple readings, as they find the experience fun.  I'd recommend against multiple readings in a single sitting, as the larger group seems to lose interest part-way through a second reading, and will start calling BS on cards that seem to be a non-sequitor.
+In my experience, participants will often want to conduct multiple readings, as they find the experience fun.  I'd recommend against multiple readings in a single sitting, as the larger group seems to lose interest part-way through a second reading, and will start calling BS on cards that seem to be a non-sequitur.
 
 To be useful, this method really does require both a querent and a facilitator.  Single-person readings can result in the querent fishing for a single answer, and ignoring the "why is this relevant" question that comes with each card.
 
 #### When it's useful
-I've found this method useful both early and late in a project.  If used early, expect to address strategic issues and key players.  Late in the project, this  method can help think through intractible issues or delays.  Finally, during launch, this method can be used as a fun way to help recast some of the trials over the design or development period and help your team project their expectations for the product.  
+I've found this method useful both early and late in a project.  If used early, expect to address strategic issues and key players.  Late in the project, this  method can help think through intractable issues or delays.  Finally, during launch, this method can be used as a fun way to help recast some of the trials over the design or development period and help your team project their expectations for the product.  
 
 ##### This technique can be utilized internally to read project teams...
 I've applied this method with programmers, who after focusing through complicated, logical issues all day, can justifiably have some trouble tapping into their creativity with the cognitive load they've endured coding.  The reality is that almost all of the coders I know are incredibly creative, and this technique can help them back off and start to embrace the whole picture.
@@ -60,7 +60,7 @@ One technique we've utilized is to do a reading on the behalf of a fictional use
 This method will produce a mix of macro and micro items to address.  To some extent, it is dependent on the cards - which will be interpreted as people or forces.  As always, people should be addressed according to their needs, and forces addressed according to their momentum.
 
 ##### Be prepared for the _unexpected_
-Expect at least one non-sequitor surprise and one "I knew it!" card to appear.  Be prepared to twist the surprise into a discussion on why it's unexpected and what the surprise implies.  I find it's best to use the "I knew it!" as an opportunity to flow through the exercise more quickly, rather than rehashing a discussion for the second time.
+Expect at least one non-sequitur surprise and one "I knew it!" card to appear.  Be prepared to twist the surprise into a discussion on why it's unexpected and what the surprise implies.  I find it's best to use the "I knew it!" as an opportunity to flow through the exercise more quickly, rather than rehashing a discussion for the second time.
 
 ##### Keep the questions & topics broad
 Simple, straightforward questions like "will we meet our deadline?" can produce non-sensical answers.  A deadline is a valuable consideration, but 10 cards about a deadline is too much information.  Get the team to broaden the topic to something like "the state of the project" and then look for answers about the deadline.
@@ -99,7 +99,7 @@ The big red flag with this card is in regards to Microsoft's reorganization.  Wi
 
 Opposing the issue, providing the central struggle, is the ace of wands.  This card represents ingenuity and creation - a divine gift...in it's normal state, but it's inverted, so it implies that these gifts have been overindulged and squandered.  Inverted, this card represents decay.
 
-While decay is talked about a lot in reference to the company's increasing irrellevance, the overindulgence that got them there is talked about less.  For most of the 90's, they were perfectly happy to abuse their cash-cow, Windows, to squash the competitors to both Windows and peripheral products their web browser, Internet Explorer.
+While decay is talked about a lot in reference to the company's increasing irrelevance, the overindulgence that got them there is talked about less.  For most of the 90's, they were perfectly happy to abuse their cash-cow, Windows, to squash the competitors to both Windows and peripheral products their web browser, Internet Explorer.
 
 The fact that they crushed Netscape, is due in no small part to the fact that they directly integrated Internet Explorer code into their windowing and file system.  In the short term, this provide gains in performance and features, but ultimately this proved to be a horrible mistake as it helped create the wealth of security issues that bogged the company down for years.  It also made the underlying code very difficult to change and update, which eventually resulted in IE falling behind competing browser platforms like Firefox and Webkit.
 
@@ -140,7 +140,7 @@ I'M SO SORRY YOU GUYS.  THIS IS ACTUALLY RANDOM.  I could've demonstrated this m
 
 It does raise the core question - what is Microsoft's value to modern world?  If it's just legacy support for all the Microsoft products out there - what we should expect to see are a series of abbreviated large drops downward in marketshare as enterprises refresh their fleets of machines.
 
-This is already happening in the retail space, with small businesses replacing their PC-based (and frankly ugly) POS solutions with iPads running POS software like Square.  POS hardware, from Microsoft's perspective, is likely a very low margin market and not necessarily on their radar, but what was on their radar when they were developing Surface?  Did Microsoft focus on Apple too much when creating the Surface?  A number of the features, like the keyboards and the use of a filesystem, seem to directly and intentionally oppose iOS and the iPad.  A device built solely for the intetion of competing, but without any customers in mind.
+This is already happening in the retail space, with small businesses replacing their PC-based (and frankly ugly) POS solutions with iPads running POS software like Square.  POS hardware, from Microsoft's perspective, is likely a very low margin market and not necessarily on their radar, but what was on their radar when they were developing Surface?  Did Microsoft focus on Apple too much when creating the Surface?  A number of the features, like the keyboards and the use of a filesystem, seem to directly and intentionally oppose iOS and the iPad.  A device built solely for the intention of competing, but without any customers in mind.
 
 ---------------------------------------
 
@@ -149,7 +149,7 @@ This is already happening in the retail space, with small businesses replacing t
 ![Five of Pentacles, inverted](/img/tarot-feature/cards/five-of-pentacles.jpg "tarot")
 </aside>
 
-Urrrgh. Discord and ruin - peasants walkinga away from a church in a snowstorm.  This is really bad card to pull in this spot, and disastrous to pull along with The Tower.  It's hard not to look at the peasants depicted and envision laid off workers.  I am curious about these workers, because I don't know what successes the company is building its future around.  If you had to shed weight from the company - where would you shed it and what would you focus on?
+Urrrgh. Discord and ruin - peasants walking away from a church in a snowstorm.  This is really bad card to pull in this spot, and disastrous to pull along with The Tower.  It's hard not to look at the peasants depicted and envision laid off workers.  I am curious about these workers, because I don't know what successes the company is building its future around.  If you had to shed weight from the company - where would you shed it and what would you focus on?
 
 These first six cards paint a very clear picture of a company that failed to innovate through its success.  The inverted tower does imply that they've seen it coming for some time, but the plethora of wealth-related cards means that the failure to progress really hasn't harmed the company all that much...yet.  These last two cards do imply that there luck may change in the near future, and we may start seeing the cracks in the company foundations start to show themselves.
 
@@ -162,7 +162,7 @@ These first six cards paint a very clear picture of a company that failed to inn
 
 This card represents fortifying before a battle.  Microsoft is prepared for battle, and still a formidable opponent, or at least that's how they see themselves.  I tend to think this represents Microsoft's attitude for quite a while now.  They've been ready to bring the battle and to fight any over market.  The problem is that they arrive after the fight is already over.
 
-The figure in this card is well stocked for battle, but over what... and why?  This is really the big question surrounding Microsft right now - okay, you guys can bring the fight, but do you actually know where the fight is and where you plan to innovate?  
+The figure in this card is well stocked for battle, but over what... and why?  This is really the big question surrounding Microsoft right now - okay, you guys can bring the fight, but do you actually know where the fight is and where you plan to innovate?  
 
 [This piece from Anil Dash](http://dashes.com/anil/2013/08/a-brief-history-of-apples-iwatch.html) comes to mind, it seems like the expectation from Microsoft is that they'll arrive late with a product that might have been innovative a year ago.
 
@@ -175,7 +175,7 @@ The figure in this card is well stocked for battle, but over what... and why?  T
 
 The Devil inverted, isn't as bad as it looks, especially in this situation.  The devil represents vice and addiction - all of the stuff we talked about above with Microsoft's legacy.  Inverted, it represents that you've repented or overcome that darkness.
 
-As Microsoft worked through Windows 8 and the Surface, we all were all willing to forgive to some extent.  Some tech bloggers went even further, portraying Microsft as the underdog and Apple as the evil giant - a total role reversal.
+As Microsoft worked through Windows 8 and the Surface, we all were all willing to forgive to some extent.  Some tech bloggers went even further, portraying Microsoft as the underdog and Apple as the evil giant - a total role reversal.
 
 ---------------------------------------
 

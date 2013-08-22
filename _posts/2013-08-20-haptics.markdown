@@ -13,7 +13,7 @@ One of the more valid points from trendy wave of anti-skeumorphism that arose up
 
 But what if the texture could be simulated?  How would we use texture to design the way touch-based devices feel?
 
-This TED talk covers a technology for recording and quantifying the way we move and the way things feel when we hold and touch them.  Although the video mostly focuses on simulating touch environments in education and training, the companion article raises some other ideas:
+This TED talk covers a technology for recording and quantifying the way things feel when we hold, move and touch them.  Although the video mostly focuses on simulating touch environments in education and training, the companion article raises some other ideas:
 
 > Haptography has many uses. It could be used for online shopping by letting you ‘feel’ the material of an item of clothing from your computer...or as a way of allowing children to virtually touch precious museum exhibits.
 
