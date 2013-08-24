@@ -2,7 +2,7 @@
 layout: post
 title:  "Shoe Shopping & Purchasing: The Survey"
 date:   2013-08-07 12:00:00
-categories: ux
+categories: survey
 description: "Six questions about your shoe shoe shopping style."
 
 externalUrl: https://bentley.qualtrics.com/SE/?SID=SV_5tlN5wMKU3zkJy5

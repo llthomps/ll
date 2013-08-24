@@ -1,5 +1,6 @@
 ---
 layout: "default"
+title: "Category: Features"
 ---
 <div class="front-header category-index">
 	<div class="front-hero">
@@ -9,14 +10,14 @@ layout: "default"
 
 	<h1><img src='/img/logo-retina.png' alt="Lloyd" /></h1>
 
-	<h2>Category : {{ site.categoryNames[page.category] }}</h2>
+	<h2>Category : {{ site.categoryNames.features }}</h2>
 </div>
 
 <hr class="l7">
 
 <section id="posts">
 	<div class="content">
-	{% for post in site.categories[page.category] %}
+	{% for post in site.categories.features %}
 		{% case post.layout %}
 		{% when "feature" %}
 			<div class="post feature clearfix">

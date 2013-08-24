@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 
 categoryNames:
- ux: "UX"
+ ux: "User Experience"
  fashion: "Shoes & Fashion"
  food-and-drink: "Food & Drink"
  features: "Features"

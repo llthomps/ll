@@ -2,7 +2,7 @@
 layout: post
 title: "Sports & Instant Replay: The Survey"
 date: 2013-08-16 12:00:01
-categories: ux
+categories: survey
 description: "Six questions about sports and instant replay."
 
 externalUrl: https://bentley.qualtrics.com/SE/?SID=SV_3Cc7S5XTe4uFl2Z

@@ -4,7 +4,7 @@
  <title></title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2013-08-21T18:28:20-05:00</updated>
+ <updated>2013-08-24T18:15:38-05:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -13,11 +13,35 @@
 
  
  <entry>
-   <title>Haptics - measuring touch</title>
+   <title>Site Update</title>
+   <link href="/site-stuff/2013/08/24/site-update.html"/>
+   <updated>2013-08-24T12:00:00-05:00</updated>
+   <id>/site-stuff/2013/08/24/site-update</id>
+   <content type="html">&lt;p&gt;It&amp;#39;s almost been a month since launch, rarely a day goes by where some work on the site - either content or code or structure - gets updated.  You&amp;#39;ve seen most of the content.  Here&amp;#39;s a rundown of some of the code and structural changes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added support for category / topic pages, and then...&lt;/li&gt;
+&lt;li&gt;Added scripts to generate &lt;a href=&quot;https://github.com/gummesson/jekyll-vimeo-plugin&quot;&gt;Vimeo&lt;/a&gt; and &lt;a href=&quot;https://gist.github.com/joelverhagen/1805814&quot;&gt;YouTube&lt;/a&gt; links, and then...&lt;/li&gt;
+&lt;li&gt;Completely changed the way the site is generating the category pages to allow for the Vimeo and YouTube tags to be read properly.&lt;/li&gt;
+&lt;li&gt;Improved the responsiveness of the site by wrapping the video iFrames for youtube and vimeo in a div that allow them resize.&lt;/li&gt;
+&lt;li&gt;Added the source code for the site on to .&lt;/li&gt;
+&lt;li&gt;Added the ability to include chapters / anchors in the feature articles.&lt;/li&gt;
+&lt;li&gt;Restructured the menu system by removing the superfluous &amp;quot;blog&amp;quot; link and added a topics menu to replace it.  I&amp;#39;ll probably be playing with this more in the future.&lt;/li&gt;
+&lt;li&gt;A multitude of minor bug fixes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lastly, I&amp;#39;ve added the source code into a &lt;a href=&quot;https://github.com/llthomps/ll&quot;&gt;Github&lt;/a&gt; repository for easy reference.  Thanks for your support, y&amp;#39;all!  As always, &lt;a href=&quot;mailto:ll@lloydsarm.com&quot;&gt;feel free to provide feedback&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PS - I still haven&amp;#39;t done any Internet Explorer testing.  Eat static or use a real browser, &lt;a href=&quot;http://www.youtube.com/watch?v=5LGEiIL1__s&quot;&gt;biiiiiiitch&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Haptics and Haptology - measuring touch</title>
    <link href="/ux/2013/08/20/haptics.html"/>
    <updated>2013-08-20T12:00:00-05:00</updated>
    <id>/ux/2013/08/20/haptics</id>
-   <content type="html">&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+   <content type="html">&lt;div class='videoWrapper'&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;One of the more valid points from trendy wave of anti-skeumorphism that arose up last year was the use of false textures to simulate real-life objects in software. The results, it was argued, confused users as to the true potential of a piece of software, and was really only useful for initial adoption.&lt;/p&gt;
 
@@ -37,9 +61,9 @@
  
  <entry>
    <title>Sports & Instant Replay: The Survey</title>
-   <link href="/ux/2013/08/16/sports-survey.html"/>
+   <link href="/survey/2013/08/16/sports-survey.html"/>
    <updated>2013-08-16T12:00:01-05:00</updated>
-   <id>/ux/2013/08/16/sports-survey</id>
+   <id>/survey/2013/08/16/sports-survey</id>
    <content type="html">&lt;p&gt;Hey folks, I&amp;#39;m doing research for an article on sports and the use of instant replay.  If you&amp;#39;ve got two minutes to spare, do me a favor and take this survey I&amp;#39;ve prepared to answer some questions I have about the issue.  Thanks!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bentley.qualtrics.com/SE/?SID=SV_3Cc7S5XTe4uFl2Z&quot;&gt;Survey Link&lt;/a&gt;&lt;/p&gt;
@@ -374,9 +398,9 @@
  
  <entry>
    <title>Shoe Shopping & Purchasing: The Survey</title>
-   <link href="/ux/2013/08/07/shoe-survey.html"/>
+   <link href="/survey/2013/08/07/shoe-survey.html"/>
    <updated>2013-08-07T12:00:00-05:00</updated>
-   <id>/ux/2013/08/07/shoe-survey</id>
+   <id>/survey/2013/08/07/shoe-survey</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/survey-screenshot.jpg&quot; alt=&quot;Survey Screenshot&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Hey folks, I&amp;#39;ve created a brief survey to conduct some follow-on research for the next shoe-related feature.  Right now, the average time to fill it out is coming in at 2 minutes and 37 seconds, so if you&amp;#39;ve got that (or more) to spare, I&amp;#39;d be grateful if you filled out the survey.&lt;/p&gt;
@@ -407,7 +431,7 @@
    <link href="/ux/2013/07/31/uncanny-valley.html"/>
    <updated>2013-07-31T12:00:01-05:00</updated>
    <id>/ux/2013/07/31/uncanny-valley</id>
-   <content type="html">&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/70775770 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/70775770 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;Generally, when we hear about the uncanny valley - it’s someone talking about Zombies, Polar Express or a freaky japanese robot face. Translate - someone is trying to gross us out or they kinda fucked up. Artist Mike Pelletier has taken a different approach, attempting to dive in and out of the valley - creating things that are varying level of bothersome.&lt;/p&gt;
 
