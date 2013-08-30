@@ -4,13 +4,63 @@
  <title></title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2013-08-24T18:15:38-05:00</updated>
+ <updated>2013-08-30T16:03:05-05:00</updated>
  <id></id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Why We Fail</title>
+   <link href="/ux/2013/08/30/why-we-fail.html"/>
+   <updated>2013-08-30T12:00:00-05:00</updated>
+   <id>/ux/2013/08/30/why-we-fail</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/why-we-fail.jpg&quot; alt=&quot;Why We Fail Cover&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uxmag.com/&quot;&gt;UX Magazine&lt;/a&gt; has a book excerpt up for the new &lt;a href=&quot;http://rosenfeldmedia.com/&quot;&gt;Rosenfeld media&lt;/a&gt; book, &amp;quot;Why We Fail: Learning from Experience Design Failures&amp;quot; by Victor Lombardi.  The posted chapter looks at Google&amp;#39;s failed attempt to innovate communication - &amp;quot;Google Wave&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;The essential issue, he argues, is that Wave didn&amp;#39;t sync up with any existing mental models for communication, so users quickly grew confused about what they were supposed to do:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The interaction was the most confusing. If your mental model of a wave was “waves are like e-mails, but they do more” and you were accustomed to e-mail interfaces like Gmail that offer robust search as the primary way of finding messages, the thought was that you could adapt to finding waves using search. Judging by questions in help forums, the biggest problem with this interaction was that people would lose waves. Someone would scroll down the list of waves and a wave that used to be there was now missing, often because they had recently entered a search term, narrowed the list of waves in the Search panel, and then forgotten they had done that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While, we&amp;#39;re here, how about a shout out to the &amp;quot;easier to understand than wave&amp;quot; meme:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/assets/swedish-wave.png&quot; alt=&quot;Swedish Chef vs. Wave&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uxmag.com/articles/book-excerpt-why-we-fail?utm_source=Twitter&amp;amp;utm_medium=ArticleShare&amp;amp;utm_tone=pq&quot;&gt;UX Magazine&lt;/a&gt; on &lt;a href=&quot;http://rosenfeldmedia.com/books/why-we-fail/&quot;&gt;Why We Fail&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bob Ross meets Skynet</title>
+   <link href="/artificial-intelligence/2013/08/27/bob-ross-bot.html"/>
+   <updated>2013-08-27T12:00:00-05:00</updated>
+   <id>/artificial-intelligence/2013/08/27/bob-ross-bot</id>
+   <content type="html">&lt;p&gt;You read that right, Japanese artist Kynd (Kenichi Yoneda) has been working on a project to simulate watercolor painting, inspired by the techniques of Bob Ross.  The project, programmed in OpenGL, has been iterating, starting with with the &amp;quot;paints&amp;quot; and getting increasingly complex and stylized. &lt;/p&gt;
+
+&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/72614672 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Another one...&lt;/p&gt;
+
+&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/72175691 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Eventually, we&amp;#39;ll have a sentient &amp;quot;happy trees&amp;quot; generator.&lt;/p&gt;
+
+&lt;p&gt;We always knew Bob Ross was a painting &lt;em&gt;machine&lt;/em&gt;, but it never occurred to me that he might literally be a &lt;em&gt;painting machine&lt;/em&gt; / &amp;quot;time traveling robot from the future sent back in time to host a show on PBS and inspire the creation of a sentient painting program.&amp;quot;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Trees cover up a multitude of sins. - Bob Ross&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Woah - hashtag, dark, Bob.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.kynd.info/log/&quot;&gt;kynd.info&lt;/a&gt; via &lt;a href=&quot;http://www.theverge.com/2013/8/27/4663008/kenichi-yonedi-kynd-programming-the-perfect-watercolor-painting&quot;&gt;The Verge&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Site Update</title>
@@ -37,7 +87,7 @@
  </entry>
  
  <entry>
-   <title>Haptics and Haptology - measuring touch</title>
+   <title>Haptics - measuring touch</title>
    <link href="/ux/2013/08/20/haptics.html"/>
    <updated>2013-08-20T12:00:00-05:00</updated>
    <id>/ux/2013/08/20/haptics</id>
