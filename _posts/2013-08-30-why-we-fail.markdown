@@ -4,11 +4,11 @@ title:  "Why We Fail"
 date:   2013-08-30 12:00:00
 categories: ux
 
-externalUrl: http://uxmag.com/articles/book-excerpt-why-we-fail?utm_source=Twitter&utm_medium=ArticleShare&utm_tone=pq
+externalUrl: http://uxmag.com/articles/book-excerpt-why-we-fail
 ---
 ![Why We Fail Cover](/img/assets/why-we-fail.jpg)
 
-[UX Magazine](http://uxmag.com/) has a book excerpt up for the new [Rosenfeld media](http://rosenfeldmedia.com/) book, "Why We Fail: Learning from Experience Design Failures" by Victor Lombardi.  The posted chapter looks at Google's failed attempt to innovate communication - "Google Wave".
+[UX Magazine](http://uxmag.com/) has a book excerpt up for the new [Rosenfeld media](http://rosenfeldmedia.com/) book, ["Why We Fail: Learning from Experience Design Failures"](http://uxmag.com/articles/book-excerpt-why-we-fail) by Victor Lombardi.  The posted chapter looks at Google's failed attempt to innovate communication - "Google Wave".
 
 The essential issue, he argues, is that Wave didn't sync up with any existing mental models for communication, so users quickly grew confused about what they were supposed to do:
 
@@ -18,4 +18,6 @@ While, we're here, how about a shout out to the "easier to understand than wave"
 
 ![Swedish Chef vs. Wave](/img/assets/swedish-wave.png)
 
-[UX Magazine](http://uxmag.com/articles/book-excerpt-why-we-fail?utm_source=Twitter&utm_medium=ArticleShare&utm_tone=pq) on [Why We Fail](http://rosenfeldmedia.com/books/why-we-fail/)
+[Bork bork bork](http://www.youtube.com/watch?v=gaNewoyc8fU)
+
+[UX Magazine](http://uxmag.com/articles/book-excerpt-why-we-fail) on [Why We Fail](http://rosenfeldmedia.com/books/why-we-fail/)
