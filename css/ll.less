@@ -102,6 +102,8 @@ header nav a,header .social a {
 	font-family: "adobe-caslon-pro",georgia,serif;
 	font-weight: 600;
 	text-transform: uppercase;
+	
+	&.contact { display: none; }
 }
 
 header nav div.dropdown {
@@ -394,6 +396,8 @@ section.header h2 {
 	font-weight: normal;	
 	margin-top: 10px;
 	font-size: 30px;
+	line-height: 1em;
+	padding: 5px 0;
 	color: rgb(51, 51, 51);
 	bottom: 0;
 }
@@ -518,6 +522,8 @@ section.text hr {
 
 #posts .post h3 {
 	font-size: 24px;
+	line-height: 1em;
+	margin-bottom: .5em;
 	
 	.icon-external-link { font-size: 18px; opacity: .5; }
 }
@@ -555,7 +561,7 @@ section.text hr {
 }
 
 #posts .post.feature h3 {
-	margin-bottom: .5em;
+	line-height: 40px;
 }
 
 
@@ -727,6 +733,10 @@ and (max-device-width : 420px) {
 	header nav a {
 		padding: 5px 5px;
 		font-size: 12px;
+	}
+		
+	header nav a.contact {
+		display: block;
 	}
 		
 	header div.social {

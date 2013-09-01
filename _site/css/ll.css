@@ -79,6 +79,10 @@ header .social a {
   font-weight: 600;
   text-transform: uppercase;
 }
+header nav a.contact,
+header .social a.contact {
+  display: none;
+}
 header nav div.dropdown {
   display: block;
   float: left;
@@ -342,6 +346,8 @@ section.header h2 {
   font-weight: normal;
   margin-top: 10px;
   font-size: 30px;
+  line-height: 1em;
+  padding: 5px 0;
   color: #333333;
   bottom: 0;
 }
@@ -454,6 +460,8 @@ section.text hr {
 }
 #posts .post h3 {
   font-size: 24px;
+  line-height: 1em;
+  margin-bottom: .5em;
 }
 #posts .post h3 .icon-external-link {
   font-size: 18px;
@@ -489,7 +497,7 @@ section.text hr {
   float: left;
 }
 #posts .post.feature h3 {
-  margin-bottom: .5em;
+  line-height: 40px;
 }
 #posts .post.feature a.feature-header-link:hover {
   text-decoration: none;
@@ -639,6 +647,9 @@ footer .copyright {
   header nav a {
     padding: 5px 5px;
     font-size: 12px;
+  }
+  header nav a.contact {
+    display: block;
   }
   header div.social {
     display: none;
