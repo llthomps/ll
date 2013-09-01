@@ -498,6 +498,7 @@ section.text hr {
 }
 #posts .post.feature h3 {
   line-height: 40px;
+  position: relative;
 }
 #posts .post.feature a.feature-header-link:hover {
   text-decoration: none;
@@ -510,9 +511,9 @@ section.text hr {
   font-family: "adobe-caslon-pro", georgia, serif;
   text-transform: uppercase;
   font-size: 36px;
-  position: relative;
+  bottom: .25em;
+  position: absolute;
   display: block;
-  margin: -45px 0 0;
   width: 100%;
   text-align: center;
 }
