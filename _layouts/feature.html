@@ -48,6 +48,13 @@
 				{% endfor %}
 			{% endfor %}
 			</ul>
+
+			<div class="social clearfix">
+				<div class="fb-share-button" data-href="http://lloydsarm.com{{ page.url }}" data-width="56" data-type="button"></div>
+				
+				<a href="https://twitter.com/share" class="twitter-share-button" data-via="llthomps" data-count="none">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
 			
 			<div class="publication-info">
 				<div class="date">{{ page.date | date_to_string }}</div>

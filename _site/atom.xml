@@ -1,22 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title></title>
- <link href="/" rel="self"/>
- <link href=""/>
- <updated>2013-09-01T15:30:52-05:00</updated>
- <id></id>
+ <title>LL</title>
+ <link href="http://lloydsarm.com//" rel="self"/>
+ <link href="http://lloydsarm.com/"/>
+ <updated>2014-10-07T00:29:26-05:00</updated>
+ <id>http://lloydsarm.com/</id>
  <author>
-   <name></name>
-   <email></email>
+   <name>Lloyd Thompson</name>
+   <email>ll@lloydsarm.com</email>
  </author>
 
  
  <entry>
+   <title>UX for Dummies</title>
+   <link href="http://lloydsarm.com//ux/2014/10/06/ux-for-dummies.html"/>
+   <updated>2014-10-06T23:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2014/10/06/ux-for-dummies</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/ux-for-dummies.jpg&quot; alt=&quot;UX for Dummies&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s just that easy.  Seriously though, they could&amp;#39;ve at least called it &amp;quot;User Experience&amp;quot; … and mentioned users on the back cover instead of business goals.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Retinal Graphics</title>
+   <link href="http://lloydsarm.com//features/ux/2013/12/01/semiology-of-graphics.html"/>
+   <updated>2013-12-01T12:00:00Z</updated>
+   <id>http://lloydsarm.com//features/ux/2013/12/01/semiology-of-graphics</id>
+   <content type="html">&lt;p&gt;We&amp;#39;ve all spoken this phrase - &amp;quot;The data should speak for itself.&amp;quot;  And for good reason, it makes us sound like neutral people who are only interested in what the data says, instead of what we actually are - hungering fools, attempting to influence the interpretation of the data through tricks and the illusion of impartiality.  If you&amp;#39;re the sucker who prepared the data, chances are you&amp;#39;re the one in the back trying to get people to agree with this bland statement that can&amp;#39;t be argued with.  What you should&amp;#39;ve done is attempt to make the data clearer ahead of time.&lt;/p&gt;
+
+&lt;p&gt;Because here&amp;#39;s the reality - even when we don&amp;#39;t intend to, we&amp;#39;re heavily influencing the interpretation of the data by the way we choose to show it.  Visualized quantitative data becomes qualitative the moment a human views it and begins to parse and compare it. So, if we don&amp;#39;t take steps to speak a visual language that a viewer understands, we inadvertently confuse or influence the interpretation, becoming the sucker referenced above.&lt;/p&gt;
+
+&lt;p&gt;One book that speaks to this language directly is Jacque Bertin&amp;#39;s &lt;em&gt;&lt;a href=&quot;http://www.amazon.com/Semiology-Graphics-Diagrams-Networks-Maps/dp/1589482611&quot;&gt;Semiology of Graphics : Diagrams, Networks, Maps&lt;/a&gt;&lt;/em&gt; - a seminal, 1967 tome outlying some core tenants of information visualization.  While many of the insights have been implemented into our daily lives, it still contains a fascinating and relevant discussion on information visualization.  To this point, Bertin&amp;#39;s most basic point is that any visual information as depicted on a 2-dimensional plane (e.g. graphs, maps, networks) requires a uniform language to be understood.&lt;/p&gt;
+
+&lt;p&gt;At the core of the language are the &lt;strong&gt;retinal&lt;/strong&gt; (visual) variables (e.g. size, color, lightness, etc.).  Variations in these variables allow the viewer to read and compare information, with some variables being better at showing particular types of comparisons.&lt;/p&gt;
+
+&lt;div class=&quot;content-element&quot;&gt;
+&lt;table class=&quot;semiology&quot; style=&#39;max-width: 550px;&#39;&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+        &lt;th class=&quot;empty&quot;&gt;&amp;nbsp;&lt;/th&gt;
+        &lt;th&gt;Association &lt;span&gt;Perceived as being similar&lt;/span&gt;&lt;/th&gt;
+        &lt;th&gt;Selection &lt;span&gt;Perceived as being different&lt;/span&gt;&lt;/th&gt;
+        &lt;th&gt;Order &lt;span&gt;Perceived as being ordered&lt;/span&gt;&lt;/th&gt;
+        &lt;th&gt;Quantity &lt;span&gt;Perceived as being proportional&lt;/span&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Size&lt;/th&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;th&gt;Value / Contrast&lt;/th&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;th&gt;Texture&lt;/th&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;th&gt;Color&lt;/th&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;th&gt;Orientation&lt;/th&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;th&gt;Shape&lt;/th&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td class=&quot;no&quot;&gt;&lt;span class=&quot;icon-minus&quot;&gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr&gt;
+            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;td colspan=&quot;4&quot; style=&#39;text-align:left;&#39;&gt;...and additionally&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Planar (x/y)&lt;/th&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+            &lt;td class=&quot;yes&quot;&gt;Yes&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+
+    &lt;tfoot&gt;
+        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td colspan=&quot;5&quot; class=&quot;caption&quot;&gt;Fig 1. Reading levels for visual variables&lt;/td&gt;
+    &lt;/tfoot&gt;
+
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;So, according to these recommendations, you would use color to show that elements (or sets of elements) are similar or different to each other, but you wouldn&amp;#39;t use color to show that they&amp;#39;re ordered or more or less than each other.  For those, you&amp;#39;d use a different visual variable like size or contrast.  The ultimate goal of proper use of the retinal variables is to &lt;strong&gt;help users make better and quicker qualitative assessments of quantitative data&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;h3&gt;Example: Graphing Usability Findings&lt;/h3&gt;
+
+&lt;p&gt;Let&amp;#39;s take a classic UX example, the results of a usability study.  Our data will show the number and severity of usability problems for a piece of sample software across a set of &lt;a href=&quot;http://www.nngroup.com/articles/ten-usability-heuristics/&quot;&gt;heuristics&lt;/a&gt; (a 25¢ word for &amp;quot;best practices&amp;quot;).  In this example, we&amp;#39;ve got three visual dimensions that we need to visualize - the heuristic (a category), the severity of the issue (a 1-4 scale with 4 being the most severe) and the count of the issues found.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s the raw data:&lt;/p&gt;
+
+&lt;div class=&quot;content-element&quot;&gt;
+&lt;table class=&quot;semiology chart&quot; style=&#39;max-width: 550px;&#39;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+            &lt;th&gt;&lt;span&gt;most severe&lt;/span&gt;4&lt;/th&gt;
+            &lt;th&gt;3&lt;/th&gt;
+            &lt;th&gt;2&lt;/th&gt;
+            &lt;th&gt;&lt;span&gt;least severe&lt;/span&gt;1&lt;/th&gt;
+            &lt;th&gt;Total&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;&lt;th&gt;Aesthetic and minimalist design&lt;/th&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Consistency and standards&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Error Prevention&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Flexibility and efficiency of use&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Help and documentation&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Help recognize, diagnose and recover from errors&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Match between system and real world&lt;/th&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Recognition rather than recall&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;User control and freedom&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;&lt;th&gt;Visibility of system status&lt;/th&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;
+    &lt;tfoot&gt;
+        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+        &lt;td colspan=&quot;5&quot; class=&quot;caption&quot;&gt;Fig 2. Number of usability issues, grouped by heuristic and severity for software X&lt;/td&gt;
+    &lt;/tfoot&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Of the dimensions, the &lt;strong&gt;severity is ordered&lt;/strong&gt; because the numbers should remain along the 1-4 scale, the &lt;strong&gt;count is proportional&lt;/strong&gt; to help us gauge the relative size of each count, and the &lt;strong&gt;heuristic is selective&lt;/strong&gt; to help us differentiate each category.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s the default output from graphing the data in a spreadsheet:&lt;/p&gt;
+
+&lt;div class=&quot;semiology aside&quot;&gt;
+    &lt;img src=&quot;/img/semiology/color-graph.png&quot; alt=&quot;Graph - Colored&quot;&gt;
+    &lt;div class=&quot;caption content-element&quot;&gt;Fig 3. Usability issues found by heuristic (alphabetical) and severity (color)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This graph is fairly easy to read, but it does have a few improvements that can be made.&lt;/p&gt;
+
+&lt;p&gt;First, the default setting has generated a heat-map color scheme (blue-to-red) to indicate severity.  One could argue that this color scheme has a limited reading order, but still requires verification via the legend and experience with the metaphor to interpret the results.  Furthermore, it applies as much visual emphasis to the low severity results as it does to the high severity results.  The fix for this would be to use an ordered variable, like value, instead of color.&lt;/p&gt;
+
+&lt;p&gt;The second issue with the graph is that while it provides a quantitative assessment for each count and heuristic via the size and planar position, it&amp;#39;s difficult to compare the data points.  The rules ordered alphabetically is not particularly useful.  Because the heuristics aren&amp;#39;t naturally ordered, we can place them in any order we see fit to provide additional meaning.  Ordering by total count or by most severe issue count (what we&amp;#39;ll demonstrate below) should do that.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s a version with the recommended fixes applied:&lt;/p&gt;
+
+&lt;div class=&quot;semiology aside&quot;&gt;
+    &lt;img src=&quot;/img/semiology/bw-graph.png&quot; alt=&quot;Graph - Black and White&quot;&gt;
+    &lt;div class=&quot;caption content-element&quot;&gt;Fig 4. Usability issues found by heuristic (most severe) and severity (black)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;...and another with texture, a different property which can demonstrate order.  In this one, we&amp;#39;ve also removed the numbering in the severity scale - demonstrating that these retinal variables can self-order based on the visual information alone.&lt;/p&gt;
+
+&lt;div class=&quot;semiology aside&quot;&gt;
+    &lt;img src=&quot;/img/semiology/texture-graph.png&quot; alt=&quot;Graph - Texture&quot;&gt;
+    &lt;div class=&quot;caption content-element&quot;&gt;Fig 5. Usability issues found by heuristic and severity (texture)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Using value or texture, we can demonstrate both severity and quantity in a way that allows the user to naturally read the data without periodically referring to the legend.  The natural ordering exposes a few traits to the dataset.  First, the primary visual weight exists in the areas with the most contrast or darkest pattern - highlighting the top 4 categories with the most severe issues.  Second, the lower contrast / pattern also suggests that the &amp;quot;flexibility and efficiency of use&amp;quot; isn&amp;#39;t an area of great concern due to the lack major issues, despite an average level quantity of issues.&lt;/p&gt;
+
+&lt;p&gt;Of additional value is that the graph becomes more scalable with value over color.  The numerical values of the severities become less relevant, as we now have a scale that allows for built-in ordering of data.&lt;/p&gt;
+
+&lt;p&gt;Lastly, and with the overall point made, &lt;em&gt;people strongly prefer colors&lt;/em&gt;, so even though the second and third graph are more readable, some people would probably tell you that they prefer the first graph.  Since value is a property of any color, including black, we can easily add a color and preserve the value properties and their preattentive benefits in the graph.&lt;/p&gt;
+
+&lt;div class=&quot;semiology aside&quot;&gt;
+    &lt;img src=&quot;/img/semiology/brown-graph.png&quot; alt=&quot;Graph - Brown + Contrast&quot;&gt;
+    &lt;div class=&quot;caption content-element&quot;&gt;Fig 6. Usability issues found by heuristic and severity (brown)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;If you&amp;#39;re interested in reading more, you can pick up a copy of &lt;a href=&quot;http://www.amazon.com/Semiology-Graphics-Diagrams-Networks-Maps/dp/1589482611&quot;&gt;Semiology of Graphics: Diagrams, Networks, Maps&lt;/a&gt; (amazon.com) by Jacque Bertin.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Why We Fail</title>
-   <link href="/ux/2013/08/30/why-we-fail.html"/>
-   <updated>2013-08-30T12:00:00-05:00</updated>
-   <id>/ux/2013/08/30/why-we-fail</id>
+   <link href="http://lloydsarm.com//ux/2013/08/30/why-we-fail.html"/>
+   <updated>2013-08-30T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/08/30/why-we-fail</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/why-we-fail.jpg&quot; alt=&quot;Why We Fail Cover&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://uxmag.com/&quot;&gt;UX Magazine&lt;/a&gt; has a book excerpt up for the new &lt;a href=&quot;http://rosenfeldmedia.com/&quot;&gt;Rosenfeld media&lt;/a&gt; book, &lt;a href=&quot;http://uxmag.com/articles/book-excerpt-why-we-fail&quot;&gt;&amp;quot;Why We Fail: Learning from Experience Design Failures&amp;quot;&lt;/a&gt; by Victor Lombardi.  The posted chapter looks at Google&amp;#39;s failed attempt to innovate communication - &amp;quot;Google Wave&amp;quot;.&lt;/p&gt;
@@ -39,9 +227,9 @@
  
  <entry>
    <title>Bob Ross meets Skynet</title>
-   <link href="/artificial-intelligence/2013/08/27/bob-ross-bot.html"/>
-   <updated>2013-08-27T12:00:00-05:00</updated>
-   <id>/artificial-intelligence/2013/08/27/bob-ross-bot</id>
+   <link href="http://lloydsarm.com//artificial-intelligence/2013/08/27/bob-ross-bot.html"/>
+   <updated>2013-08-27T12:00:00Z</updated>
+   <id>http://lloydsarm.com//artificial-intelligence/2013/08/27/bob-ross-bot</id>
    <content type="html">&lt;p&gt;You read that right, Japanese artist Kynd (Kenichi Yoneda) has been working on a project to simulate watercolor painting, inspired by the techniques of Bob Ross.  The project, programmed in OpenGL, has been iterating, starting with with the &amp;quot;paints&amp;quot; and getting increasingly complex and stylized. &lt;/p&gt;
 
 &lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/72614672 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -66,9 +254,9 @@
  
  <entry>
    <title>Site Update</title>
-   <link href="/site-stuff/2013/08/24/site-update.html"/>
-   <updated>2013-08-24T12:00:00-05:00</updated>
-   <id>/site-stuff/2013/08/24/site-update</id>
+   <link href="http://lloydsarm.com//site-stuff/2013/08/24/site-update.html"/>
+   <updated>2013-08-24T12:00:00Z</updated>
+   <id>http://lloydsarm.com//site-stuff/2013/08/24/site-update</id>
    <content type="html">&lt;p&gt;It&amp;#39;s almost been a month since launch, rarely a day goes by where some work on the site - either content or code or structure - gets updated.  You&amp;#39;ve seen most of the content.  Here&amp;#39;s a rundown of some of the code and structural changes:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -90,10 +278,10 @@
  
  <entry>
    <title>Haptics - measuring touch</title>
-   <link href="/ux/2013/08/20/haptics.html"/>
-   <updated>2013-08-20T12:00:00-05:00</updated>
-   <id>/ux/2013/08/20/haptics</id>
-   <content type="html">&lt;div class='videoWrapper'&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+   <link href="http://lloydsarm.com//ux/2013/08/20/haptics.html"/>
+   <updated>2013-08-20T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/08/20/haptics</id>
+   <content type="html">&lt;div class=&#39;videoWrapper&#39;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;One of the more valid points from trendy wave of anti-skeumorphism that arose up last year was the use of false textures to simulate real-life objects in software. The results, it was argued, confused users as to the true potential of a piece of software, and was really only useful for initial adoption.&lt;/p&gt;
 
@@ -113,9 +301,9 @@
  
  <entry>
    <title>Sports & Instant Replay: The Survey</title>
-   <link href="/survey/2013/08/16/sports-survey.html"/>
-   <updated>2013-08-16T12:00:01-05:00</updated>
-   <id>/survey/2013/08/16/sports-survey</id>
+   <link href="http://lloydsarm.com//survey/2013/08/16/sports-survey.html"/>
+   <updated>2013-08-16T12:00:01Z</updated>
+   <id>http://lloydsarm.com//survey/2013/08/16/sports-survey</id>
    <content type="html">&lt;p&gt;Hey folks, I&amp;#39;m doing research for an article on sports and the use of instant replay.  If you&amp;#39;ve got two minutes to spare, do me a favor and take this survey I&amp;#39;ve prepared to answer some questions I have about the issue.  Thanks!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://bentley.qualtrics.com/SE/?SID=SV_3Cc7S5XTe4uFl2Z&quot;&gt;Survey Link&lt;/a&gt;&lt;/p&gt;
@@ -124,9 +312,9 @@
  
  <entry>
    <title>More Shrubs</title>
-   <link href="/food-and-drink/2013/08/16/more-shrubs.html"/>
-   <updated>2013-08-16T12:00:00-05:00</updated>
-   <id>/food-and-drink/2013/08/16/more-shrubs</id>
+   <link href="http://lloydsarm.com//food-and-drink/2013/08/16/more-shrubs.html"/>
+   <updated>2013-08-16T12:00:00Z</updated>
+   <id>http://lloydsarm.com//food-and-drink/2013/08/16/more-shrubs</id>
    <content type="html">&lt;p&gt;I&amp;#39;ve been playing a bit with shrubs since the &lt;a href=&quot;/food-and-drink/2013/07/30/shrubs.html&quot;&gt;last post&lt;/a&gt;, and wanted to share one new recipe and one update to an earlier recipe we&amp;#39;d highlighted.&lt;/p&gt;
 
 &lt;h3&gt;Hatch Chile Shrub&lt;/h3&gt;
@@ -180,9 +368,9 @@
  
  <entry>
    <title>Occult Design Methods</title>
-   <link href="/features/ux/2013/08/13/extreme-methods-tarot.html"/>
-   <updated>2013-08-13T12:00:00-05:00</updated>
-   <id>/features/ux/2013/08/13/extreme-methods-tarot</id>
+   <link href="http://lloydsarm.com//features/ux/2013/08/13/extreme-methods-tarot.html"/>
+   <updated>2013-08-13T12:00:00Z</updated>
+   <id>http://lloydsarm.com//features/ux/2013/08/13/extreme-methods-tarot</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Telepathy.  ESP.  Divination. The Tarot.  In this article we&amp;#39;ll explore the strange history of utilizing the Tarot readings in project ideation and strategy in an article where we explore design methods of the occult, abandoned because of their inherit power.&lt;/strong&gt; &lt;/p&gt;
 
 &lt;p&gt;Thanks for getting past the lead.  It&amp;#39;s completely false.  We&amp;#39;ll be exploring how to utilize a classic divination technique that&amp;#39;s highly dependent on subjective input from the &amp;quot;querent&amp;quot; and facilitator to help individuals on a project engage in divergent and creative thinking.  And let&amp;#39;s be clear about this - I don&amp;#39;t think the Tarot Cards are an accurate way to predict anything, in real life.  &lt;/p&gt;
@@ -391,9 +579,9 @@
  
  <entry>
    <title>Sci-Fi Interfaces</title>
-   <link href="/ux/2013/08/12/sci-fi-interfaces.html"/>
-   <updated>2013-08-12T12:00:00-05:00</updated>
-   <id>/ux/2013/08/12/sci-fi-interfaces</id>
+   <link href="http://lloydsarm.com//ux/2013/08/12/sci-fi-interfaces.html"/>
+   <updated>2013-08-12T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/08/12/sci-fi-interfaces</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/typing.gif&quot; alt=&quot;Ghost in the shell - typing&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the best UX books I&amp;#39;ve read this year, is &lt;a href=&quot;http://rosenfeldmedia.com/books/make-it-so/&quot;&gt;Make it So : Interaction Design Lessons from Science Fiction (Rosenfeld Media)&lt;/a&gt;.  This incredible book takes the approach of examining the interfaces in science fiction movies as if they are fully functional, draws assumptions about what &lt;em&gt;must&lt;/em&gt; be making them work (or not work) correctly for a user and returns those assumptions as distilled insights.&lt;/p&gt;
@@ -408,9 +596,9 @@
  
  <entry>
    <title>Metropolis Tattoo Second Session</title>
-   <link href="/tattoos/2013/08/11/tatoo-progress.html"/>
-   <updated>2013-08-11T12:00:00-05:00</updated>
-   <id>/tattoos/2013/08/11/tatoo-progress</id>
+   <link href="http://lloydsarm.com//tattoos/2013/08/11/tatoo-progress.html"/>
+   <updated>2013-08-11T12:00:00Z</updated>
+   <id>http://lloydsarm.com//tattoos/2013/08/11/tatoo-progress</id>
    <content type="html">&lt;p&gt;We finished up the second session on my sleeve yesterday with &lt;a href=&quot;http://jeffensminger.com&quot;&gt;Jeff Ensminger&lt;/a&gt; &lt;a href=&quot;http://instagram.com/jeffensminger&quot;&gt;(Instagram)&lt;/a&gt;.  Jeff is a super-professional artist and, as you can see, quite talented:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/assets/metropolis-sleeve-second.jpg&quot; alt=&quot;Metropolis Sleeve - Second Session&quot;&gt;&lt;/p&gt;
@@ -425,9 +613,9 @@
  
  <entry>
    <title>A defense of Comic Sans ... (in education)</title>
-   <link href="/ux/2013/08/09/comic-sans.html"/>
-   <updated>2013-08-09T12:00:00-05:00</updated>
-   <id>/ux/2013/08/09/comic-sans</id>
+   <link href="http://lloydsarm.com//ux/2013/08/09/comic-sans.html"/>
+   <updated>2013-08-09T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/08/09/comic-sans</id>
    <content type="html">&lt;p&gt;YES - I&amp;#39;ve been searching for this article for years.  If you&amp;#39;re like me, you got tired of making fun of Comic Sans in 2006.  I mean, Comic Sans is the &amp;quot;that what she said&amp;quot; of font jokes.  So, here&amp;#39;s an article that argues that for elementary schools it&amp;#39;s a scientifically justifiable font choice, and that your / mine aesthetics be damned.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -450,9 +638,9 @@
  
  <entry>
    <title>Shoe Shopping & Purchasing: The Survey</title>
-   <link href="/survey/2013/08/07/shoe-survey.html"/>
-   <updated>2013-08-07T12:00:00-05:00</updated>
-   <id>/survey/2013/08/07/shoe-survey</id>
+   <link href="http://lloydsarm.com//survey/2013/08/07/shoe-survey.html"/>
+   <updated>2013-08-07T12:00:00Z</updated>
+   <id>http://lloydsarm.com//survey/2013/08/07/shoe-survey</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/survey-screenshot.jpg&quot; alt=&quot;Survey Screenshot&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Hey folks, I&amp;#39;ve created a brief survey to conduct some follow-on research for the next shoe-related feature.  Right now, the average time to fill it out is coming in at 2 minutes and 37 seconds, so if you&amp;#39;ve got that (or more) to spare, I&amp;#39;d be grateful if you filled out the survey.&lt;/p&gt;
@@ -465,9 +653,9 @@
  
  <entry>
    <title>Your app makes me fat</title>
-   <link href="/ux/2013/08/01/fat-app.html"/>
-   <updated>2013-08-01T12:00:00-05:00</updated>
-   <id>/ux/2013/08/01/fat-app</id>
+   <link href="http://lloydsarm.com//ux/2013/08/01/fat-app.html"/>
+   <updated>2013-08-01T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/08/01/fat-app</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/FixedMemorization.jpg&quot; alt=&quot;Uncanny Valley Graph&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a completely fascinating article that demonstrates the strong link between cognitive load and willpower.  This same theory also applies to creativity - see this &lt;a href=&quot;http://www.ted.com/talks/don_norman_on_design_and_emotion.html&quot;&gt;Ted Talk by Don Norman&lt;/a&gt;&lt;/p&gt;
@@ -480,9 +668,9 @@
  
  <entry>
    <title>Ruuunnn: Uncanny Valley</title>
-   <link href="/ux/2013/07/31/uncanny-valley.html"/>
-   <updated>2013-07-31T12:00:01-05:00</updated>
-   <id>/ux/2013/07/31/uncanny-valley</id>
+   <link href="http://lloydsarm.com//ux/2013/07/31/uncanny-valley.html"/>
+   <updated>2013-07-31T12:00:01Z</updated>
+   <id>http://lloydsarm.com//ux/2013/07/31/uncanny-valley</id>
    <content type="html">&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/70775770 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;Generally, when we hear about the uncanny valley - it’s someone talking about Zombies, Polar Express or a freaky japanese robot face. Translate - someone is trying to gross us out or they kinda fucked up. Artist Mike Pelletier has taken a different approach, attempting to dive in and out of the valley - creating things that are varying level of bothersome.&lt;/p&gt;
@@ -499,9 +687,9 @@
  
  <entry>
    <title>The Flavor Bible</title>
-   <link href="/food-and-drink/2013/07/31/flavor-bible.html"/>
-   <updated>2013-07-31T12:00:00-05:00</updated>
-   <id>/food-and-drink/2013/07/31/flavor-bible</id>
+   <link href="http://lloydsarm.com//food-and-drink/2013/07/31/flavor-bible.html"/>
+   <updated>2013-07-31T12:00:00Z</updated>
+   <id>http://lloydsarm.com//food-and-drink/2013/07/31/flavor-bible</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/flavor-bible.jpg&quot; alt=&quot;Flavor Bible - Lavendar Page&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you’re like me and scour the internet for multiple recipes to sort of “frankenrecipe”, I highly recommend this book. I just picked up a copy today, and haven’t put it down (I accidentally glued it to my pants).&lt;/p&gt;
@@ -516,9 +704,9 @@
  
  <entry>
    <title>Shrubs</title>
-   <link href="/food-and-drink/2013/07/30/shrubs.html"/>
-   <updated>2013-07-30T12:00:01-05:00</updated>
-   <id>/food-and-drink/2013/07/30/shrubs</id>
+   <link href="http://lloydsarm.com//food-and-drink/2013/07/30/shrubs.html"/>
+   <updated>2013-07-30T12:00:01Z</updated>
+   <id>http://lloydsarm.com//food-and-drink/2013/07/30/shrubs</id>
    <content type="html">&lt;p&gt;If shrubs aren&amp;#8217;t bushes, what are they? Shrubs, in the context of this article, are a combination of fruit sugars, sugar sugars and vinegar. The result is a thin syrup with a flavor profile somewhere in the middle between fruity pebbles and salad dressing. It&amp;#8217;s a great addition to cocktails and to sparkling water (for a more complex italian soda). About three months ago, it was all the rage in cocktails, before it was displaced by Mezcal, then Averna, then crushed-ice cocktails, then cocktails named &amp;#8220;swizzle&amp;#8221;, and finally it&amp;#8217;s regained the crown as a subject of interest in bartenders and cocktailinista&amp;#8217;s for at least the next 10-14 days. While it&amp;#8217;s still popular, I&amp;#8217;ll take the opportunity to share what I know, and drop some links for those who might be interested.&lt;/p&gt;
 
 &lt;h4&gt;Straight Shrubbin&amp;#8217;&lt;/h4&gt;
@@ -545,7 +733,7 @@
 
 &lt;p&gt;And I might put .5 oz of this stuff in a gin cocktail or in a Pimm&amp;#8217;s cup with soda water, as a substitute for the lemonade.&lt;/p&gt;
 
-&lt;p&gt;&lt;aside class='pull pull-right'&gt;&lt;/p&gt;
+&lt;p&gt;&lt;aside class=&#39;pull pull-right&#39;&gt;&lt;/p&gt;
 
 &lt;h5&gt;Bonus round: mother of vinegar...FIGHT&lt;/h5&gt;
 
@@ -572,40 +760,40 @@
 
 &lt;p&gt;This has more bite, so it may be used more sparingly and with a slightly more robust alcohol - with mezcal in an old fashioned.&lt;/p&gt;
 
-&lt;div class='carousel slide' id='carousel-example-generic'&gt;
+&lt;div class=&#39;carousel slide&#39; id=&#39;carousel-example-generic&#39;&gt;
   &lt;!-- Indicators --&gt;
-  &lt;ol class='carousel-indicators'&gt;
-    &lt;li class='active' data-target='#carousel-example-generic' data-slide-to='0' /&gt;
-    &lt;li data-target='#carousel-example-generic' data-slide-to='1' /&gt;
-    &lt;li data-target='#carousel-example-generic' data-slide-to='2' /&gt;
+  &lt;ol class=&#39;carousel-indicators&#39;&gt;
+    &lt;li class=&#39;active&#39; data-target=&#39;#carousel-example-generic&#39; data-slide-to=&#39;0&#39; /&gt;
+    &lt;li data-target=&#39;#carousel-example-generic&#39; data-slide-to=&#39;1&#39; /&gt;
+    &lt;li data-target=&#39;#carousel-example-generic&#39; data-slide-to=&#39;2&#39; /&gt;
   &lt;/ol&gt;
   &lt;!-- Wrapper for slides --&gt;
-  &lt;div class='carousel-inner'&gt;
-    &lt;div class='item active'&gt;
-      &lt;img src='/img/shrubs/prep.jpg' /&gt;
-      &lt;div class='carousel-caption'&gt;
+  &lt;div class=&#39;carousel-inner&#39;&gt;
+    &lt;div class=&#39;item active&#39;&gt;
+      &lt;img src=&#39;/img/shrubs/prep.jpg&#39; /&gt;
+      &lt;div class=&#39;carousel-caption&#39;&gt;
         The fruit
       &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class='item'&gt;
-      &lt;img src='/img/shrubs/plus-zero.jpg' /&gt;
-      &lt;div class='carousel-caption'&gt;
+    &lt;div class=&#39;item&#39;&gt;
+      &lt;img src=&#39;/img/shrubs/plus-zero.jpg&#39; /&gt;
+      &lt;div class=&#39;carousel-caption&#39;&gt;
         The chopped fruit, combined with sugar and coffee and shaken.
       &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class='item'&gt;
-      &lt;img src='/img/shrubs/plus-twelve.jpg' /&gt;
-      &lt;div class='carousel-caption'&gt;
+    &lt;div class=&#39;item&#39;&gt;
+      &lt;img src=&#39;/img/shrubs/plus-twelve.jpg&#39; /&gt;
+      &lt;div class=&#39;carousel-caption&#39;&gt;
         At twelve hours, a good deal of juice has already been drawn into solution and mixed with the coffee
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;!-- Controls --&gt;
-  &lt;a class='left carousel-control' data-slide='prev' href='#carousel-example-generic'&gt;
-    &lt;span class='icon-prev' /&gt;
+  &lt;a class=&#39;left carousel-control&#39; data-slide=&#39;prev&#39; href=&#39;#carousel-example-generic&#39;&gt;
+    &lt;span class=&#39;icon-prev&#39; /&gt;
   &lt;/a&gt;
-  &lt;a class='right carousel-control' data-slide='next' href='#carousel-example-generic'&gt;
-    &lt;span class='icon-next' /&gt;
+  &lt;a class=&#39;right carousel-control&#39; data-slide=&#39;next&#39; href=&#39;#carousel-example-generic&#39;&gt;
+    &lt;span class=&#39;icon-next&#39; /&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -649,9 +837,9 @@
  
  <entry>
    <title>Bullshitreference.com - a bullshit translator</title>
-   <link href="/ux/2013/07/30/bullshit-reference.html"/>
-   <updated>2013-07-30T12:00:00-05:00</updated>
-   <id>/ux/2013/07/30/bullshit-reference</id>
+   <link href="http://lloydsarm.com//ux/2013/07/30/bullshit-reference.html"/>
+   <updated>2013-07-30T12:00:00Z</updated>
+   <id>http://lloydsarm.com//ux/2013/07/30/bullshit-reference</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/bullshit.translator_wastedrita.jpg&quot; alt=&quot;Bullshit Translator&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;A pretty amazing and coherent lo-fi prototype for the fictional website “bullshitreference.com” by &lt;a href=&quot;http://ritabored.blogspot.com/&quot;&gt;wasted rita&lt;/a&gt;. I, for one, would use this site.&lt;/p&gt;
@@ -660,9 +848,9 @@
  
  <entry>
    <title>Shoe Decisions</title>
-   <link href="/features/fashion/2013/07/28/shoe-decisions.html"/>
-   <updated>2013-07-28T12:00:01-05:00</updated>
-   <id>/features/fashion/2013/07/28/shoe-decisions</id>
+   <link href="http://lloydsarm.com//features/fashion/2013/07/28/shoe-decisions.html"/>
+   <updated>2013-07-28T12:00:01Z</updated>
+   <id>http://lloydsarm.com//features/fashion/2013/07/28/shoe-decisions</id>
    <content type="html">&lt;p&gt;First things first, I need to come clean about to everyone. My name is Lloyd Thompson, and over the past two years, I’ve gone from owning a single pair of Justin cowboy boots and some beat up sketchers to a compulsive shoe shopper. I&amp;#8217;m not going to start throwing out dollar amounts, but suffice to say its enough that I&amp;#8217;ve had to invest in a custom storage solution, and when I run out of room I have to donate shoes to the goodwill. To those of you who don&amp;#8217;t buy shoes a lot, you now know my/this secret. To those of you who do - fuck yeah, let&amp;#8217;s go buy some cowboy boots RIGHT NOW. Call me.&lt;/p&gt;
 
 &lt;p&gt;This is relevant because a few months ago, I had the opportunity to conduct some research on how and why people buy shoes. I conducted interviews, spent (more) time on shoe shopping sites, and even spent hours watching people try on and buy shoes. I came up with a number of earth shattering insights, all of which I’ll share in a later article, about why and how people buy shoes. More importantly, it helped clue me in on what the hell I was doing - something I’d earnestly been confused about (i.e. - “I just bought three pairs of shoes, why did I do that?”).&lt;/p&gt;
@@ -677,15 +865,15 @@
 
 &lt;p&gt;One way to think about the brain is to think about it in terms of &lt;a href=&quot;http://www.jnd.org/dn.mss/CH01.pdf&quot;&gt;processing centers&lt;/a&gt; - layers that interpret the world for us in distinct ways and reflect our evolutionary history as a species.&lt;/p&gt;
 
-&lt;p&gt;&lt;aside style='max-width: 410px' class='img pull-right'&gt;
-    &lt;a data-toggle='lightbox' href='#shoeChart'&gt;&lt;img src='/img/shoe-feature/eval-chart.png' alt='A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing' /&gt;&lt;/a&gt;
-    &lt;div tabindex='-1' role='dialog' class='lightbox hide fade' id='shoeChart' aria-hidden='true'&gt;
-        &lt;div class='lightbox-content hide-caption'&gt;
-            &lt;img src='/img/shoe-feature/eval-chart.png' alt='A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used between logical and visceral or emotional processing' /&gt;
-            &lt;div class='lightbox-caption'&gt;&lt;p&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;aside style=&#39;max-width: 410px&#39; class=&#39;img pull-right&#39;&gt;
+    &lt;a data-toggle=&#39;lightbox&#39; href=&#39;#shoeChart&#39;&gt;&lt;img src=&#39;/img/shoe-feature/eval-chart.png&#39; alt=&#39;A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing&#39; /&gt;&lt;/a&gt;
+    &lt;div tabindex=&#39;-1&#39; role=&#39;dialog&#39; class=&#39;lightbox hide fade&#39; id=&#39;shoeChart&#39; aria-hidden=&#39;true&#39;&gt;
+        &lt;div class=&#39;lightbox-content hide-caption&#39;&gt;
+            &lt;img src=&#39;/img/shoe-feature/eval-chart.png&#39; alt=&#39;A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used between logical and visceral or emotional processing&#39; /&gt;
+            &lt;div class=&#39;lightbox-caption&#39;&gt;&lt;p&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/p&gt;&lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-    &lt;div style='margin-top: 3px;' class='caption'&gt;
+    &lt;div style=&#39;margin-top: 3px;&#39; class=&#39;caption&#39;&gt;
         &lt;em&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/em&gt;&lt;Br /&gt;
         A depiction of the implied decision making domains regarding shoe purchase, and how quality, comfort and value help individuals conceptualize the major decisions in a purchase.
     &lt;/div&gt;
@@ -715,27 +903,27 @@
 
 &lt;h4&gt;Strategy&lt;/h4&gt;
 
-&lt;p&gt;&lt;aside class='pull pull-right'&gt;
+&lt;p&gt;&lt;aside class=&#39;pull pull-right&#39;&gt;
 &lt;h5&gt;Biases in decision making : sizing vs fit&lt;/h5&gt;&lt;/p&gt;
 
-&lt;p&gt;Sometimes when we're making a decision we consider incorrect data or weigh particular elements of a decision improperly.  When we do this, we’re exhibiting a bias.  We found two biases around sizing - one bias we encountered was the notion that if two different styles of the same brand shoe have different fits (you wear size 11 in one and size 10.5 in the other) that it indicates poor manufacturing quality.  Shoes are hand assembled on “lasts” - models of a foot - and those lasts are what the size is determined from.  If you use a different last for a different style (heels vs flats), you may get a different fit and require a different size.&lt;/p&gt;
+&lt;p&gt;Sometimes when we&#39;re making a decision we consider incorrect data or weigh particular elements of a decision improperly.  When we do this, we’re exhibiting a bias.  We found two biases around sizing - one bias we encountered was the notion that if two different styles of the same brand shoe have different fits (you wear size 11 in one and size 10.5 in the other) that it indicates poor manufacturing quality.  Shoes are hand assembled on “lasts” - models of a foot - and those lasts are what the size is determined from.  If you use a different last for a different style (heels vs flats), you may get a different fit and require a different size.&lt;/p&gt;
 
 &lt;p&gt;In this case, the bias is rooted in the assumption that size is a characteristic of our foot - “I’m a size 11”.  This is incorrect - the model used to make most of your shoes is a size 11, and your foot is in irregularly sized approximation of a “normal” foot.&lt;/p&gt;
 
-&lt;div style='width: 60%; border: none; padding: 5px; ' class='pull-right'&gt;
-    &lt;em&gt;Figure 2 - Women's shoe purchases, 1998 &lt;sup&gt;[2]&lt;/sup&gt;&lt;/em&gt;
-    &lt;a data-toggle='lightbox' href='#shoeGraph'&gt;&lt;img src='/img/shoe-feature/shoe-graph.png' alt='A chart that shows that shoe purchases do not follow a normal mathematical distribution.' /&gt;&lt;/a&gt;
+&lt;div style=&#39;width: 60%; border: none; padding: 5px; &#39; class=&#39;pull-right&#39;&gt;
+    &lt;em&gt;Figure 2 - Women&#39;s shoe purchases, 1998 &lt;sup&gt;[2]&lt;/sup&gt;&lt;/em&gt;
+    &lt;a data-toggle=&#39;lightbox&#39; href=&#39;#shoeGraph&#39;&gt;&lt;img src=&#39;/img/shoe-feature/shoe-graph.png&#39; alt=&#39;A chart that shows that shoe purchases do not follow a normal mathematical distribution.&#39; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;div tabindex='-1' role='dialog' class='lightbox hide fade' id='shoeGraph' aria-hidden='true'&gt;
-    &lt;div class='lightbox-caption'&gt;&lt;p&gt;Figure 2 - Women's shoe purchases, 1998&lt;/p&gt;&lt;/div&gt;
+&lt;div tabindex=&#39;-1&#39; role=&#39;dialog&#39; class=&#39;lightbox hide fade&#39; id=&#39;shoeGraph&#39; aria-hidden=&#39;true&#39;&gt;
+    &lt;div class=&#39;lightbox-caption&#39;&gt;&lt;p&gt;Figure 2 - Women&#39;s shoe purchases, 1998&lt;/p&gt;&lt;/div&gt;
     
-    &lt;div class='lightbox-content'&gt;
-        &lt;img src='/img/shoe-feature/shoe-graph.png' alt='A chart that shows that shoe purchases do not follow a normal mathematical distribution.' /&gt;
+    &lt;div class=&#39;lightbox-content&#39;&gt;
+        &lt;img src=&#39;/img/shoe-feature/shoe-graph.png&#39; alt=&#39;A chart that shows that shoe purchases do not follow a normal mathematical distribution.&#39; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The second bias we encountered was a striking preference for whole numbers in sizing, shown on the graph to the right.  While it's difficult to know the reasons this trend exists, it suggests that either human feet grow naturally into even whole number segments on an arbitrary scale or that a great deal of ignorance over sizing and impies that a good deal of Americans are wearing ill-fitted shoes.  Past research rules out the former, so it's probably the latter.&lt;/p&gt;
+&lt;p&gt;The second bias we encountered was a striking preference for whole numbers in sizing, shown on the graph to the right.  While it&#39;s difficult to know the reasons this trend exists, it suggests that either human feet grow naturally into even whole number segments on an arbitrary scale or that a great deal of ignorance over sizing and impies that a good deal of Americans are wearing ill-fitted shoes.  Past research rules out the former, so it&#39;s probably the latter.&lt;/p&gt;
 
 &lt;p&gt;Try on multiple sizes!&lt;/p&gt;
 
@@ -777,9 +965,9 @@
  
  <entry>
    <title>Do I really have to name this post 'welcome to my site?'</title>
-   <link href="/site-stuff/2013/07/28/first-post.html"/>
-   <updated>2013-07-28T12:00:00-05:00</updated>
-   <id>/site-stuff/2013/07/28/first-post</id>
+   <link href="http://lloydsarm.com//site-stuff/2013/07/28/first-post.html"/>
+   <updated>2013-07-28T12:00:00Z</updated>
+   <id>http://lloydsarm.com//site-stuff/2013/07/28/first-post</id>
    <content type="html">&lt;p&gt;Before I start into anything here, and I will ramble, let me encourage you to go read the &lt;a href=&quot;/features/fashion/2013/07/28/shoe-decisions.html&quot;&gt;actual feature&lt;/a&gt; instead, if you haven’t already read it. This post is, even at its very best and most eloquent, will just end up being filler.&lt;/p&gt;
 
 &lt;p&gt;For a while, I’ve been wanting a place to post bigger pieces of content and random thoughts and I’ve simultaneously been really desiring to actually invest in a personal project and design something new from the ground up. By launching, I think I’ve accomplished both of these things.&lt;/p&gt;
@@ -796,7 +984,7 @@
 
 &lt;p&gt;Thanks for visiting! Critical feedback, please.&lt;/p&gt;
 
-&lt;p class='addendum'&gt;PS - I haven't tested this yet in IE (I know). Part of me wants to add an IE style sheet that just says &quot;psyyycchh - use a real browser, please&quot;, but then what would all the call center employees of the world use to look at my site? I'M ON IT, OKAY?&lt;/p&gt;
+&lt;p class=&#39;addendum&#39;&gt;PS - I haven&#39;t tested this yet in IE (I know). Part of me wants to add an IE style sheet that just says &quot;psyyycchh - use a real browser, please&quot;, but then what would all the call center employees of the world use to look at my site? I&#39;M ON IT, OKAY?&lt;/p&gt;
 </content>
  </entry>
  

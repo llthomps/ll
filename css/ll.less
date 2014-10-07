@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6 {
 	padding: 0;
 }
 
-b,strong {
+b,strong,th {
 	font-weight: 600;
 }
 
@@ -426,6 +426,10 @@ section.text ul {
 	padding-right: 200px;
 }
 
+section.text div.content-element {
+	padding-right: 200px;
+}
+
 section.text ul li {
 	list-style-type: none;
 	border-left: solid 5px #f0f0f0;
@@ -615,6 +619,17 @@ footer .copyright {
 /*** END FOOTER STYLES ***/
 
 
+/*** SOCIAL MEDIA STYLES ***/
+.fb-share-button {
+	width: 56px;
+	float: left;
+}
+.twitter-share-button {
+	float: right;	
+}
+/*** END SOCIAL MEDIA STYLES ***/
+
+
 /** RESPONSIVE STYLES ***/
 @media only screen 
 and (min-device-width : 768px) 
@@ -649,7 +664,7 @@ and (max-device-width : 420px) {
 		
 	}
 	
-	section.text p, section.text ul {
+	section.text p, section.text ul,section.text div.content-element {
 		padding-right: 100px;
 	}
 }
@@ -667,7 +682,7 @@ and (max-device-width : 420px) {
 		float: none!important;
 	}
 	
-	section.text p, section.text ul {
+	section.text p, section.text ul,section.text div.content-element {
 		padding-right: 0;
 	}
 }
@@ -680,13 +695,20 @@ and (max-device-width : 420px) {
 	
 	.article-head { 
 		position: static; 
+		margin-left: 0;
+		
+		h1 { display: none; }
+		text-align: center;
+		width: auto;
+		
+		.social { width : 125px; margin: 0 auto; }
 	}
 	
 	aside { clear: both; margin: 10px auto!important; float: none!important; }
 	aside.img { padding: 0!important;  }
 	
-	section.text p, section.text ul {
-		padding-right: 0;
+	section.text p, section.text ul, section.text div.content-element {
+ 		padding-right: 0;
 	}
 
 
@@ -726,6 +748,14 @@ and (max-device-width : 420px) {
  
 /* Landscape phones and down */
 @media (max-width: 568px) {
+	article .content {
+		padding-left: 15px;
+	}
+
+	section.text {
+ 		padding-right: 15px;
+	}
+
 	.front-header h2 span {
 		display: inline;
 	}
@@ -768,6 +798,7 @@ and (max-device-width : 420px) {
 	width: 100%;
 	height: 100%;
 }
+
 /* Tarot feature */
 .tarot {
 	img {
@@ -787,4 +818,36 @@ and (max-device-width : 420px) {
 	&.inverted img:hover {
 		.transform(rotate(180deg));
 	}
+}
+
+/* Semiology feature */
+table.semiology {
+	line-height: 1em;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+	max-width: 100%;
+
+	thead th { padding: 10px; border-bottom: solid 1px #666; &.empty { border-bottom: none; } vertical-align: bottom; }
+	thead th span { font-weight: 400; display: block; font-size: 12px; padding-top: .5em; }
+	tbody th { text-align: right; padding: 10px 10px 10px 0; border-right: solid 1px #666; }
+	tbody td { padding: 10px; font-weight: 300; text-align: center; }
+	.yes { background: #666; color: white; font-weight: 500; }
+	.no { color: #aaa; }
+	
+	font-family: "adobe-caslon-pro",georgia,serif; 
+	&.chart tbody tr:nth-child(odd) td { background: #f0f0f0; width: 30px; }
+	&.chart thead th span { padding-top: 0; padding-bottom: .5em; }
+	
+	.caption { padding-top: 1em; font-weight: 400; font-style: italic; line-height: 1.5em; }
+}
+
+div.semiology {
+	padding-bottom: 1em;
+	.caption { padding-top: 1em; font-weight: 400; font-style: italic; line-height: 1.5em; text-align:right; }
+}
+
+.semiology section.header {
+	margin-top: 1em;
+	
+	h1 { color: #999; }
 }

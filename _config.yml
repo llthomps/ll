@@ -1,6 +1,11 @@
 name: LL
 markdown: redcarpet
 pygments: true
+production_url: http://lloydsarm.com/
+
+author:
+ name: Lloyd Thompson
+ email: ll@lloydsarm.com
 
 categoryNames:
  ux: "User Experience"
