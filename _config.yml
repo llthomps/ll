@@ -1,6 +1,6 @@
 name: LL
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 production_url: http://lloydsarm.com/
 
 author:

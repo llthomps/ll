@@ -40,7 +40,7 @@ layout: "default"
 		{% when "post" %}
 			<div class="post clearfix">
 				{% if post.externalUrl %}
-					<h3><a href='{{ post.externalUrl }}' target=_blank>{{ post.title }} &nbsp; <span class="icon-external-link"> </span></a></h3>
+					<h3><a href='{{ post.externalUrl }}' class='external' target=_blank>{{ post.title }} &nbsp; <span class="icon-external-link"> </span></a></h3>
 				{% else %}
 					<h3><a href='{{ post.url }}' target=_blank>{{ post.title }}</a></h3>
 				{% endif %}

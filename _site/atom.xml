@@ -4,7 +4,7 @@
  <title>LL</title>
  <link href="http://lloydsarm.com//" rel="self"/>
  <link href="http://lloydsarm.com/"/>
- <updated>2014-10-07T00:29:26-05:00</updated>
+ <updated>2015-01-21T11:15:33-06:00</updated>
  <id>http://lloydsarm.com/</id>
  <author>
    <name>Lloyd Thompson</name>
@@ -13,20 +13,9 @@
 
  
  <entry>
-   <title>UX for Dummies</title>
-   <link href="http://lloydsarm.com//ux/2014/10/06/ux-for-dummies.html"/>
-   <updated>2014-10-06T23:00:00Z</updated>
-   <id>http://lloydsarm.com//ux/2014/10/06/ux-for-dummies</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/ux-for-dummies.jpg&quot; alt=&quot;UX for Dummies&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s just that easy.  Seriously though, they could&amp;#39;ve at least called it &amp;quot;User Experience&amp;quot; … and mentioned users on the back cover instead of business goals.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Retinal Graphics</title>
    <link href="http://lloydsarm.com//features/ux/2013/12/01/semiology-of-graphics.html"/>
-   <updated>2013-12-01T12:00:00Z</updated>
+   <updated>2013-12-01T06:00:00-06:00</updated>
    <id>http://lloydsarm.com//features/ux/2013/12/01/semiology-of-graphics</id>
    <content type="html">&lt;p&gt;We&amp;#39;ve all spoken this phrase - &amp;quot;The data should speak for itself.&amp;quot;  And for good reason, it makes us sound like neutral people who are only interested in what the data says, instead of what we actually are - hungering fools, attempting to influence the interpretation of the data through tricks and the illusion of impartiality.  If you&amp;#39;re the sucker who prepared the data, chances are you&amp;#39;re the one in the back trying to get people to agree with this bland statement that can&amp;#39;t be argued with.  What you should&amp;#39;ve done is attempt to make the data clearer ahead of time.&lt;/p&gt;
 
@@ -203,7 +192,7 @@
  <entry>
    <title>Why We Fail</title>
    <link href="http://lloydsarm.com//ux/2013/08/30/why-we-fail.html"/>
-   <updated>2013-08-30T12:00:00Z</updated>
+   <updated>2013-08-30T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/08/30/why-we-fail</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/why-we-fail.jpg&quot; alt=&quot;Why We Fail Cover&quot;&gt;&lt;/p&gt;
 
@@ -228,7 +217,7 @@
  <entry>
    <title>Bob Ross meets Skynet</title>
    <link href="http://lloydsarm.com//artificial-intelligence/2013/08/27/bob-ross-bot.html"/>
-   <updated>2013-08-27T12:00:00Z</updated>
+   <updated>2013-08-27T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//artificial-intelligence/2013/08/27/bob-ross-bot</id>
    <content type="html">&lt;p&gt;You read that right, Japanese artist Kynd (Kenichi Yoneda) has been working on a project to simulate watercolor painting, inspired by the techniques of Bob Ross.  The project, programmed in OpenGL, has been iterating, starting with with the &amp;quot;paints&amp;quot; and getting increasingly complex and stylized. &lt;/p&gt;
 
@@ -255,7 +244,7 @@
  <entry>
    <title>Site Update</title>
    <link href="http://lloydsarm.com//site-stuff/2013/08/24/site-update.html"/>
-   <updated>2013-08-24T12:00:00Z</updated>
+   <updated>2013-08-24T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//site-stuff/2013/08/24/site-update</id>
    <content type="html">&lt;p&gt;It&amp;#39;s almost been a month since launch, rarely a day goes by where some work on the site - either content or code or structure - gets updated.  You&amp;#39;ve seen most of the content.  Here&amp;#39;s a rundown of some of the code and structural changes:&lt;/p&gt;
 
@@ -279,7 +268,7 @@
  <entry>
    <title>Haptics - measuring touch</title>
    <link href="http://lloydsarm.com//ux/2013/08/20/haptics.html"/>
-   <updated>2013-08-20T12:00:00Z</updated>
+   <updated>2013-08-20T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/08/20/haptics</id>
    <content type="html">&lt;div class=&#39;videoWrapper&#39;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://www.youtube.com/embed/6wJ9Aakddng&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
@@ -302,7 +291,7 @@
  <entry>
    <title>Sports & Instant Replay: The Survey</title>
    <link href="http://lloydsarm.com//survey/2013/08/16/sports-survey.html"/>
-   <updated>2013-08-16T12:00:01Z</updated>
+   <updated>2013-08-16T07:00:01-05:00</updated>
    <id>http://lloydsarm.com//survey/2013/08/16/sports-survey</id>
    <content type="html">&lt;p&gt;Hey folks, I&amp;#39;m doing research for an article on sports and the use of instant replay.  If you&amp;#39;ve got two minutes to spare, do me a favor and take this survey I&amp;#39;ve prepared to answer some questions I have about the issue.  Thanks!&lt;/p&gt;
 
@@ -313,7 +302,7 @@
  <entry>
    <title>More Shrubs</title>
    <link href="http://lloydsarm.com//food-and-drink/2013/08/16/more-shrubs.html"/>
-   <updated>2013-08-16T12:00:00Z</updated>
+   <updated>2013-08-16T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//food-and-drink/2013/08/16/more-shrubs</id>
    <content type="html">&lt;p&gt;I&amp;#39;ve been playing a bit with shrubs since the &lt;a href=&quot;/food-and-drink/2013/07/30/shrubs.html&quot;&gt;last post&lt;/a&gt;, and wanted to share one new recipe and one update to an earlier recipe we&amp;#39;d highlighted.&lt;/p&gt;
 
@@ -369,7 +358,7 @@
  <entry>
    <title>Occult Design Methods</title>
    <link href="http://lloydsarm.com//features/ux/2013/08/13/extreme-methods-tarot.html"/>
-   <updated>2013-08-13T12:00:00Z</updated>
+   <updated>2013-08-13T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//features/ux/2013/08/13/extreme-methods-tarot</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Telepathy.  ESP.  Divination. The Tarot.  In this article we&amp;#39;ll explore the strange history of utilizing the Tarot readings in project ideation and strategy in an article where we explore design methods of the occult, abandoned because of their inherit power.&lt;/strong&gt; &lt;/p&gt;
 
@@ -431,9 +420,9 @@
 
 &lt;h5&gt;Card 1 - The heart of the matter / The question - The Magician&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/the-magician.jpg&quot; alt=&quot;The Magician&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot pull-right&quot;&gt;
+![The Magician](/img/tarot-feature/cards/the-magician.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;WOW.  I cannot describe to you what an amazingly fascinating card this is to pull first.  Let me try anyways, or this article is going to be hard to read.  &lt;/p&gt;
 
@@ -447,9 +436,9 @@
 
 &lt;h5&gt;Card 2 - The Problem - Ace of Wands (inverted)&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/ace-of-wands.jpg&quot; alt=&quot;Ace of Wands, Inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![Ace of Wands, Inverted](/img/tarot-feature/cards/ace-of-wands.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;Opposing the issue, providing the central struggle, is the ace of wands.  This card represents ingenuity and creation - a divine gift...in it&amp;#39;s normal state, but it&amp;#39;s inverted, so it implies that these gifts have been overindulged and squandered.  Inverted, this card represents decay.&lt;/p&gt;
 
@@ -465,9 +454,9 @@
 
 &lt;h5&gt;Card 3 - Root Cause - Ace of Cups&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/ace-of-cups.jpg&quot; alt=&quot;Ace of Cups&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot pull-right&quot;&gt;
+![Ace of Cups](/img/tarot-feature/cards/ace-of-cups.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;This card complements the Ace of Wands nicely.  The Ace of Cups represents abundance and fertility - their cup runneth over.  But this is attempting to explain the problem, not show any futures.  Microsoft attempted to rely on their past success to grow. Rather than taking a risk of failure, they assumed that Windows would always nourish the company.  But will it?&lt;/p&gt;
 
@@ -475,9 +464,9 @@
 
 &lt;h5&gt;Card 4 - The Past - Knight of Wands&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/knight-of-wands.jpg&quot; alt=&quot;Knight of Wands&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot pull-right&quot;&gt;
+![Knight of Wands](/img/tarot-feature/cards/knight-of-wands.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;This card shows a knight, not dressed for battle, meekly riding away from something, holding a stick.  It represents departure or fleeing, and I&amp;#39;d take this to represent a person.  Could this represent the departure of Bill Gates?  &lt;/p&gt;
 
@@ -489,9 +478,9 @@
 
 &lt;h5&gt;Card 5 - Immediate Future - The Tower (inverted)&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/the-tower.jpg&quot; alt=&quot;The Tower, Inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![The Tower, Inverted](/img/tarot-feature/cards/the-tower.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;I&amp;#39;M SO SORRY YOU GUYS.  THIS IS ACTUALLY RANDOM.  I could&amp;#39;ve demonstrated this method without having to rely on literally the worst card in the Tarot.  The tower represents failure, destruction, and ruin, straight up.  In its inverted state it means the same thing, but you know its coming.  Basically this card is saying that everyone in Microsoft knows that they&amp;#39;re doomed to failure and they&amp;#39;re just waiting for it to arrive.&lt;/p&gt;
 
@@ -503,9 +492,9 @@
 
 &lt;h5&gt;Card 6 - The future - Five of pentacles (inverted)&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/five-of-pentacles.jpg&quot; alt=&quot;Five of Pentacles, inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![Five of Pentacles, inverted](/img/tarot-feature/cards/five-of-pentacles.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;Urrrgh. Discord and ruin - peasants walking away from a church in a snowstorm.  This is really bad card to pull in this spot, and disastrous to pull along with The Tower.  It&amp;#39;s hard not to look at the peasants depicted and envision laid off workers.  I am curious about these workers, because I don&amp;#39;t know what successes the company is building its future around.  If you had to shed weight from the company - where would you shed it and what would you focus on?&lt;/p&gt;
 
@@ -515,9 +504,9 @@
 
 &lt;h5&gt;Card 7 - You, in the present - Nine of wands&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/nine-of-wands.jpg&quot; alt=&quot;Nine of Wands&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot pull-right&quot;&gt;
+![Nine of Wands](/img/tarot-feature/cards/nine-of-wands.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;This card represents fortifying before a battle.  Microsoft is prepared for battle, and still a formidable opponent, or at least that&amp;#39;s how they see themselves.  I tend to think this represents Microsoft&amp;#39;s attitude for quite a while now.  They&amp;#39;ve been ready to bring the battle and to fight any over market.  The problem is that they arrive after the fight is already over.&lt;/p&gt;
 
@@ -529,9 +518,9 @@
 
 &lt;h5&gt;Card 8 - You, as the world sees you - The devil (inverted)&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/the-devil.jpg&quot; alt=&quot;The Devil, inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![The Devil, inverted](/img/tarot-feature/cards/the-devil.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;The Devil inverted, isn&amp;#39;t as bad as it looks, especially in this situation.  The devil represents vice and addiction - all of the stuff we talked about above with Microsoft&amp;#39;s legacy.  Inverted, it represents that you&amp;#39;ve repented or overcome that darkness.&lt;/p&gt;
 
@@ -541,9 +530,9 @@
 
 &lt;h5&gt;Card 9 - Key Factor / Hopes and dreams - Knight of swords (inverted)&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/knight-of-swords.jpg&quot; alt=&quot;Knight of Swords, inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![Knight of Swords, inverted](/img/tarot-feature/cards/knight-of-swords.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;This card represents bravery and righteousness - a knight riding into battle.  But inverted, it suggests that the cause is hopeless, and to some extent that the knight is on a fool&amp;#39;s errand or too arrogant to see the error of the cause.&lt;/p&gt;
 
@@ -553,9 +542,9 @@
 
 &lt;h5&gt;Card 10 - Ultimate outcome - Two of wands inverted&lt;/h5&gt;
 
-&lt;p&gt;&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
-&lt;img src=&quot;/img/tarot-feature/cards/two-of-wands.jpg&quot; alt=&quot;Two of Wands, inverted&quot; title=&quot;tarot&quot;&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;aside class=&quot;tarot inverted pull-right&quot;&gt;
+![Two of Wands, inverted](/img/tarot-feature/cards/two-of-wands.jpg &quot;tarot&quot;)
+&lt;/aside&gt;
 
 &lt;p&gt;This card shows a man waiting on the shore for a person or riches, but to some extent it implies that the riches may not ever arrive.  The reverse meaning implies some self-awareness of this, and that ultimately while it might not arrive, there may be more surprises and excitement in store.&lt;/p&gt;
 
@@ -580,7 +569,7 @@
  <entry>
    <title>Sci-Fi Interfaces</title>
    <link href="http://lloydsarm.com//ux/2013/08/12/sci-fi-interfaces.html"/>
-   <updated>2013-08-12T12:00:00Z</updated>
+   <updated>2013-08-12T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/08/12/sci-fi-interfaces</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/typing.gif&quot; alt=&quot;Ghost in the shell - typing&quot;&gt;&lt;/p&gt;
 
@@ -597,7 +586,7 @@
  <entry>
    <title>Metropolis Tattoo Second Session</title>
    <link href="http://lloydsarm.com//tattoos/2013/08/11/tatoo-progress.html"/>
-   <updated>2013-08-11T12:00:00Z</updated>
+   <updated>2013-08-11T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//tattoos/2013/08/11/tatoo-progress</id>
    <content type="html">&lt;p&gt;We finished up the second session on my sleeve yesterday with &lt;a href=&quot;http://jeffensminger.com&quot;&gt;Jeff Ensminger&lt;/a&gt; &lt;a href=&quot;http://instagram.com/jeffensminger&quot;&gt;(Instagram)&lt;/a&gt;.  Jeff is a super-professional artist and, as you can see, quite talented:&lt;/p&gt;
 
@@ -614,7 +603,7 @@
  <entry>
    <title>A defense of Comic Sans ... (in education)</title>
    <link href="http://lloydsarm.com//ux/2013/08/09/comic-sans.html"/>
-   <updated>2013-08-09T12:00:00Z</updated>
+   <updated>2013-08-09T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/08/09/comic-sans</id>
    <content type="html">&lt;p&gt;YES - I&amp;#39;ve been searching for this article for years.  If you&amp;#39;re like me, you got tired of making fun of Comic Sans in 2006.  I mean, Comic Sans is the &amp;quot;that what she said&amp;quot; of font jokes.  So, here&amp;#39;s an article that argues that for elementary schools it&amp;#39;s a scientifically justifiable font choice, and that your / mine aesthetics be damned.&lt;/p&gt;
 
@@ -639,7 +628,7 @@
  <entry>
    <title>Shoe Shopping & Purchasing: The Survey</title>
    <link href="http://lloydsarm.com//survey/2013/08/07/shoe-survey.html"/>
-   <updated>2013-08-07T12:00:00Z</updated>
+   <updated>2013-08-07T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//survey/2013/08/07/shoe-survey</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/survey-screenshot.jpg&quot; alt=&quot;Survey Screenshot&quot;&gt;&lt;/p&gt;
 
@@ -654,7 +643,7 @@
  <entry>
    <title>Your app makes me fat</title>
    <link href="http://lloydsarm.com//ux/2013/08/01/fat-app.html"/>
-   <updated>2013-08-01T12:00:00Z</updated>
+   <updated>2013-08-01T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/08/01/fat-app</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/FixedMemorization.jpg&quot; alt=&quot;Uncanny Valley Graph&quot;&gt;&lt;/p&gt;
 
@@ -669,7 +658,7 @@
  <entry>
    <title>Ruuunnn: Uncanny Valley</title>
    <link href="http://lloydsarm.com//ux/2013/07/31/uncanny-valley.html"/>
-   <updated>2013-07-31T12:00:01Z</updated>
+   <updated>2013-07-31T07:00:01-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/07/31/uncanny-valley</id>
    <content type="html">&lt;div class=&quot;videoWrapper&quot;&gt;&lt;iframe width=&quot;580&quot; height=&quot;330&quot; src=&quot;http://player.vimeo.com/video/70775770 &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
@@ -688,7 +677,7 @@
  <entry>
    <title>The Flavor Bible</title>
    <link href="http://lloydsarm.com//food-and-drink/2013/07/31/flavor-bible.html"/>
-   <updated>2013-07-31T12:00:00Z</updated>
+   <updated>2013-07-31T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//food-and-drink/2013/07/31/flavor-bible</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/flavor-bible.jpg&quot; alt=&quot;Flavor Bible - Lavendar Page&quot;&gt;&lt;/p&gt;
 
@@ -705,7 +694,7 @@
  <entry>
    <title>Shrubs</title>
    <link href="http://lloydsarm.com//food-and-drink/2013/07/30/shrubs.html"/>
-   <updated>2013-07-30T12:00:01Z</updated>
+   <updated>2013-07-30T07:00:01-05:00</updated>
    <id>http://lloydsarm.com//food-and-drink/2013/07/30/shrubs</id>
    <content type="html">&lt;p&gt;If shrubs aren&amp;#8217;t bushes, what are they? Shrubs, in the context of this article, are a combination of fruit sugars, sugar sugars and vinegar. The result is a thin syrup with a flavor profile somewhere in the middle between fruity pebbles and salad dressing. It&amp;#8217;s a great addition to cocktails and to sparkling water (for a more complex italian soda). About three months ago, it was all the rage in cocktails, before it was displaced by Mezcal, then Averna, then crushed-ice cocktails, then cocktails named &amp;#8220;swizzle&amp;#8221;, and finally it&amp;#8217;s regained the crown as a subject of interest in bartenders and cocktailinista&amp;#8217;s for at least the next 10-14 days. While it&amp;#8217;s still popular, I&amp;#8217;ll take the opportunity to share what I know, and drop some links for those who might be interested.&lt;/p&gt;
 
@@ -733,15 +722,15 @@
 
 &lt;p&gt;And I might put .5 oz of this stuff in a gin cocktail or in a Pimm&amp;#8217;s cup with soda water, as a substitute for the lemonade.&lt;/p&gt;
 
-&lt;p&gt;&lt;aside class=&#39;pull pull-right&#39;&gt;&lt;/p&gt;
+&lt;aside class=&#39;pull pull-right&#39;&gt;
 
-&lt;h5&gt;Bonus round: mother of vinegar...FIGHT&lt;/h5&gt;
+##### Bonus round: mother of vinegar...FIGHT
 
-&lt;p&gt;Rumor has it that shrubbing will occasionally score you some &amp;quot;mother of vinegar&amp;quot;&lt;sup&gt;[1]&lt;/sup&gt;, which is a somewhat strange, borderline Wiccan, way to say &amp;quot;vinegar starter&amp;quot; (I mean - we don&amp;#39;t we call seeds &amp;quot;mother of cucumber&amp;quot; or yeast &amp;quot;bread daddies&amp;quot;).&lt;/p&gt;
+Rumor has it that shrubbing will occasionally score you some &quot;mother of vinegar&quot;&lt;sup&gt;[1]&lt;/sup&gt;, which is a somewhat strange, borderline Wiccan, way to say &quot;vinegar starter&quot; (I mean - we don&#39;t we call seeds &quot;mother of cucumber&quot; or yeast &quot;bread daddies&quot;).
 
-&lt;p&gt;Much like bacon grease - just because you &lt;em&gt;can&lt;/em&gt; collect it, it doesn&amp;#39;t mean you have to.  Mother of Vinegar won&amp;#39;t affect the shrub or vinegar and should drop out of solution into a solid layer once it has done its thing.  If you are interested in making your own vinegar, &lt;a href=&quot;http://lmgtfy.com/?q=how+to+make+vinegar+with+mother+of+vinegar&quot;&gt;good for you!&lt;/a&gt;&lt;/p&gt;
+Much like bacon grease - just because you _can_ collect it, it doesn&#39;t mean you have to.  Mother of Vinegar won&#39;t affect the shrub or vinegar and should drop out of solution into a solid layer once it has done its thing.  If you are interested in making your own vinegar, [good for you!](http://lmgtfy.com/?q=how+to+make+vinegar+with+mother+of+vinegar)
 
-&lt;p&gt;&lt;/aside&gt;&lt;/p&gt;
+&lt;/aside&gt;
 
 &lt;h4&gt;Spicy Shrubbin&amp;#8217;&lt;/h4&gt;
 
@@ -838,7 +827,7 @@
  <entry>
    <title>Bullshitreference.com - a bullshit translator</title>
    <link href="http://lloydsarm.com//ux/2013/07/30/bullshit-reference.html"/>
-   <updated>2013-07-30T12:00:00Z</updated>
+   <updated>2013-07-30T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//ux/2013/07/30/bullshit-reference</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/assets/bullshit.translator_wastedrita.jpg&quot; alt=&quot;Bullshit Translator&quot;&gt;&lt;/p&gt;
 
@@ -849,7 +838,7 @@
  <entry>
    <title>Shoe Decisions</title>
    <link href="http://lloydsarm.com//features/fashion/2013/07/28/shoe-decisions.html"/>
-   <updated>2013-07-28T12:00:01Z</updated>
+   <updated>2013-07-28T07:00:01-05:00</updated>
    <id>http://lloydsarm.com//features/fashion/2013/07/28/shoe-decisions</id>
    <content type="html">&lt;p&gt;First things first, I need to come clean about to everyone. My name is Lloyd Thompson, and over the past two years, I’ve gone from owning a single pair of Justin cowboy boots and some beat up sketchers to a compulsive shoe shopper. I&amp;#8217;m not going to start throwing out dollar amounts, but suffice to say its enough that I&amp;#8217;ve had to invest in a custom storage solution, and when I run out of room I have to donate shoes to the goodwill. To those of you who don&amp;#8217;t buy shoes a lot, you now know my/this secret. To those of you who do - fuck yeah, let&amp;#8217;s go buy some cowboy boots RIGHT NOW. Call me.&lt;/p&gt;
 
@@ -865,7 +854,7 @@
 
 &lt;p&gt;One way to think about the brain is to think about it in terms of &lt;a href=&quot;http://www.jnd.org/dn.mss/CH01.pdf&quot;&gt;processing centers&lt;/a&gt; - layers that interpret the world for us in distinct ways and reflect our evolutionary history as a species.&lt;/p&gt;
 
-&lt;p&gt;&lt;aside style=&#39;max-width: 410px&#39; class=&#39;img pull-right&#39;&gt;
+&lt;aside style=&#39;max-width: 410px&#39; class=&#39;img pull-right&#39;&gt;
     &lt;a data-toggle=&#39;lightbox&#39; href=&#39;#shoeChart&#39;&gt;&lt;img src=&#39;/img/shoe-feature/eval-chart.png&#39; alt=&#39;A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing&#39; /&gt;&lt;/a&gt;
     &lt;div tabindex=&#39;-1&#39; role=&#39;dialog&#39; class=&#39;lightbox hide fade&#39; id=&#39;shoeChart&#39; aria-hidden=&#39;true&#39;&gt;
         &lt;div class=&#39;lightbox-content hide-caption&#39;&gt;
@@ -877,7 +866,7 @@
         &lt;em&gt;Figure 1 - Arriving at a decision through the three domains of processing&lt;/em&gt;&lt;Br /&gt;
         A depiction of the implied decision making domains regarding shoe purchase, and how quality, comfort and value help individuals conceptualize the major decisions in a purchase.
     &lt;/div&gt;
-&lt;/aside&gt;&lt;/p&gt;
+&lt;/aside&gt;
 
 &lt;p&gt;The first domain is the visceral domain where we size up the physical and aesthetic characteristics of a shoe. This is partially our biology at work, but it’s also our first pass at identifying beauty. Beautiful things have organic shapes to them, they have colors and textures that identify their characteristics in easy to understand ways, and they are distinct and unique. In my own personal experience, a strong visceral reaction is one that requires a moment of quiet to fully absorb - where we wait for the words to arrive.&lt;/p&gt;
 
@@ -903,13 +892,11 @@
 
 &lt;h4&gt;Strategy&lt;/h4&gt;
 
-&lt;p&gt;&lt;aside class=&#39;pull pull-right&#39;&gt;
-&lt;h5&gt;Biases in decision making : sizing vs fit&lt;/h5&gt;&lt;/p&gt;
+&lt;aside class=&#39;pull pull-right&#39;&gt;
+&lt;h5&gt;Biases in decision making : sizing vs fit&lt;/h5&gt;
 
 &lt;p&gt;Sometimes when we&#39;re making a decision we consider incorrect data or weigh particular elements of a decision improperly.  When we do this, we’re exhibiting a bias.  We found two biases around sizing - one bias we encountered was the notion that if two different styles of the same brand shoe have different fits (you wear size 11 in one and size 10.5 in the other) that it indicates poor manufacturing quality.  Shoes are hand assembled on “lasts” - models of a foot - and those lasts are what the size is determined from.  If you use a different last for a different style (heels vs flats), you may get a different fit and require a different size.&lt;/p&gt;
-
 &lt;p&gt;In this case, the bias is rooted in the assumption that size is a characteristic of our foot - “I’m a size 11”.  This is incorrect - the model used to make most of your shoes is a size 11, and your foot is in irregularly sized approximation of a “normal” foot.&lt;/p&gt;
-
 &lt;div style=&#39;width: 60%; border: none; padding: 5px; &#39; class=&#39;pull-right&#39;&gt;
     &lt;em&gt;Figure 2 - Women&#39;s shoe purchases, 1998 &lt;sup&gt;[2]&lt;/sup&gt;&lt;/em&gt;
     &lt;a data-toggle=&#39;lightbox&#39; href=&#39;#shoeGraph&#39;&gt;&lt;img src=&#39;/img/shoe-feature/shoe-graph.png&#39; alt=&#39;A chart that shows that shoe purchases do not follow a normal mathematical distribution.&#39; /&gt;&lt;/a&gt;
@@ -924,10 +911,8 @@
 &lt;/div&gt;
 
 &lt;p&gt;The second bias we encountered was a striking preference for whole numbers in sizing, shown on the graph to the right.  While it&#39;s difficult to know the reasons this trend exists, it suggests that either human feet grow naturally into even whole number segments on an arbitrary scale or that a great deal of ignorance over sizing and impies that a good deal of Americans are wearing ill-fitted shoes.  Past research rules out the former, so it&#39;s probably the latter.&lt;/p&gt;
-
 &lt;p&gt;Try on multiple sizes!&lt;/p&gt;
-
-&lt;p&gt;&lt;/aside&gt;&lt;/p&gt;
+&lt;/aside&gt;
 
 &lt;p&gt;The second part of getting through the complexity involves strategy selection. There are still too many shoes and too many variables for most people to realistically deal with, so we need to eliminate some of the options. We do this in a number of ways:&lt;/p&gt;
 
@@ -966,7 +951,7 @@
  <entry>
    <title>Do I really have to name this post 'welcome to my site?'</title>
    <link href="http://lloydsarm.com//site-stuff/2013/07/28/first-post.html"/>
-   <updated>2013-07-28T12:00:00Z</updated>
+   <updated>2013-07-28T07:00:00-05:00</updated>
    <id>http://lloydsarm.com//site-stuff/2013/07/28/first-post</id>
    <content type="html">&lt;p&gt;Before I start into anything here, and I will ramble, let me encourage you to go read the &lt;a href=&quot;/features/fashion/2013/07/28/shoe-decisions.html&quot;&gt;actual feature&lt;/a&gt; instead, if you haven’t already read it. This post is, even at its very best and most eloquent, will just end up being filler.&lt;/p&gt;
 

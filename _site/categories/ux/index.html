@@ -88,29 +88,6 @@
 	<div class="content">
 	
 		
-			<div class="post clearfix">
-				
-					<h3><a href='/ux/2014/10/06/ux-for-dummies.html' target=_blank>UX for Dummies</a></h3>
-				
-	
-				<div class="post-text">
-					
-
-					
-						<p><img src="/img/assets/ux-for-dummies.jpg" alt="UX for Dummies"></p>
-
-<p>It&#39;s just that easy.  Seriously though, they could&#39;ve at least called it &quot;User Experience&quot; … and mentioned users on the back cover instead of business goals.</p>
-
-									
-				</div>
-				<div class="timestamp">
-					06 Oct 2014 | 
-					<a href='/ux/2014/10/06/ux-for-dummies.html'>permalink</a>
-				</div>
-			</div>
-		
-	
-		
 			<div class="post feature clearfix">
 				<a href='/features/ux/2013/12/01/semiology-of-graphics.html' class="feature-header-link">
 					<h3>
@@ -391,7 +368,12 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162384803850350";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+var o = function(a) { 
+	ga('send', 'event', 'outbound', 'click', a.href);
+}
+$("a.external").click(function () { o(this); });
+</script>
 
 </body>
 </html>

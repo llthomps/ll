@@ -126,7 +126,7 @@
 
 <p>One way to think about the brain is to think about it in terms of <a href="http://www.jnd.org/dn.mss/CH01.pdf">processing centers</a> - layers that interpret the world for us in distinct ways and reflect our evolutionary history as a species.</p>
 
-<p><aside style='max-width: 410px' class='img pull-right'>
+<aside style='max-width: 410px' class='img pull-right'>
     <a data-toggle='lightbox' href='#shoeChart'><img src='/img/shoe-feature/eval-chart.png' alt='A chart showing some of the keywords used in evaluating across the domains of processing, including the gateways used beteween logical and visceral or emotional processing' /></a>
     <div tabindex='-1' role='dialog' class='lightbox hide fade' id='shoeChart' aria-hidden='true'>
         <div class='lightbox-content hide-caption'>
@@ -138,7 +138,7 @@
         <em>Figure 1 - Arriving at a decision through the three domains of processing</em><Br />
         A depiction of the implied decision making domains regarding shoe purchase, and how quality, comfort and value help individuals conceptualize the major decisions in a purchase.
     </div>
-</aside></p>
+</aside>
 
 <p>The first domain is the visceral domain where we size up the physical and aesthetic characteristics of a shoe. This is partially our biology at work, but it’s also our first pass at identifying beauty. Beautiful things have organic shapes to them, they have colors and textures that identify their characteristics in easy to understand ways, and they are distinct and unique. In my own personal experience, a strong visceral reaction is one that requires a moment of quiet to fully absorb - where we wait for the words to arrive.</p>
 
@@ -164,13 +164,11 @@
 
 <h4>Strategy</h4>
 
-<p><aside class='pull pull-right'>
-<h5>Biases in decision making : sizing vs fit</h5></p>
+<aside class='pull pull-right'>
+<h5>Biases in decision making : sizing vs fit</h5>
 
 <p>Sometimes when we're making a decision we consider incorrect data or weigh particular elements of a decision improperly.  When we do this, we’re exhibiting a bias.  We found two biases around sizing - one bias we encountered was the notion that if two different styles of the same brand shoe have different fits (you wear size 11 in one and size 10.5 in the other) that it indicates poor manufacturing quality.  Shoes are hand assembled on “lasts” - models of a foot - and those lasts are what the size is determined from.  If you use a different last for a different style (heels vs flats), you may get a different fit and require a different size.</p>
-
 <p>In this case, the bias is rooted in the assumption that size is a characteristic of our foot - “I’m a size 11”.  This is incorrect - the model used to make most of your shoes is a size 11, and your foot is in irregularly sized approximation of a “normal” foot.</p>
-
 <div style='width: 60%; border: none; padding: 5px; ' class='pull-right'>
     <em>Figure 2 - Women's shoe purchases, 1998 <sup>[2]</sup></em>
     <a data-toggle='lightbox' href='#shoeGraph'><img src='/img/shoe-feature/shoe-graph.png' alt='A chart that shows that shoe purchases do not follow a normal mathematical distribution.' /></a>
@@ -185,10 +183,8 @@
 </div>
 
 <p>The second bias we encountered was a striking preference for whole numbers in sizing, shown on the graph to the right.  While it's difficult to know the reasons this trend exists, it suggests that either human feet grow naturally into even whole number segments on an arbitrary scale or that a great deal of ignorance over sizing and impies that a good deal of Americans are wearing ill-fitted shoes.  Past research rules out the former, so it's probably the latter.</p>
-
 <p>Try on multiple sizes!</p>
-
-<p></aside></p>
+</aside>
 
 <p>The second part of getting through the complexity involves strategy selection. There are still too many shoes and too many variables for most people to realistically deal with, so we need to eliminate some of the options. We do this in a number of ways:</p>
 
@@ -281,7 +277,12 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162384803850350";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+var o = function(a) { 
+	ga('send', 'event', 'outbound', 'click', a.href);
+}
+$("a.external").click(function () { o(this); });
+</script>
 
 </body>
 </html>
